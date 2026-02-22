@@ -1,0 +1,602 @@
+[
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "Let \n( )\nf x be a continuously differentiable function on the interval (0,\n)\n\uf0a5such that \n(1)\n2\nf\n=\n and \n10\n10\n9\n9\n( )\n( )\nlim\n1\nt\nx\nt\nf x\nx f t\nt\nx\n\u2192\n\u2212\n=\n\u2212\n \nfor each \n0.\nx \uf03e\n Then, for all \n0,\nx \uf03e\n \n( )\nf x  is equal to \n \n   \n31\n9\n11\n11 x\nx \u2212\n \n\n9\n13\n11\n11 x\nx +\n \n   \n9\n31\n11\n11 x\nx\n\u2212\n+\n \n\n13\n9\n11\n11 x\nx +",
+        "options": [
+            "10",
+            "10",
+            "10",
+            "10"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "A student appears for a quiz consisting of only true-false type questions and answers all the questions.  \nThe student knows the answers of some questions and guesses the answers for the remaining \nquestions.  Whenever the student knows the answer of a question, he gives the correct answer.  \nAssume that the probability of the student giving the correct answer for a question, given that he has \nguessed it, is 1 .\n2\nAlso assume that the probability of the answer for a question being guessed, given \nthat the student\u2019s answer is correct, is 1 .\n6\n Then the probability that the student knows the answer of \na randomly chosen question is \n \n    \n12\n \n\n7\n \n\n7\n \n\n12\n \n \n \nMathematics\n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n2/10",
+        "options": [
+            "1",
+            "1",
+            "5",
+            "5"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "Let 2\nx\n\uf070\n\uf070\n\uf03c\n\uf03c\n be such that \n5\ncot\n.\n11\nx\n\u2212\n=\n Then \n(\n)\n(\n)\n11\n11\nsin\nsin 6\ncos6\ncos\nsin 6\ncos6\n2\n2\nx\nx\nx\nx\nx\nx\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\u2212\n+\n+\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \nis equal to \n \n\n2 3\n\u2212\n \n\n2 3\n+\n \n \n3 2\n+\n \n\n3 2\n\u2212",
+        "options": [
+            "11 1",
+            "11 1",
+            "11 1",
+            "11 1"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Consider the ellipse \n2\n2\n1.\n9\n4\nx\ny\n+\n=\n Let ( , )\nS p q be a point in the first quadrant such that \n2\n2\n1.\n9\n4\np\nq\n+\n\uf03e\n Two tangents are drawn from S to the ellipse, of which one meets the ellipse at one \nend point of the minor axis and the other meets the ellipse at a point T  in the fourth quadrant. Let \nR be the vertex of the ellipse with positive x -coordinate and Obe the center of the ellipse. If the \narea of the triangle ORT\n\uf044\nis 3 ,\n2\n then which of the following options is correct?  \n \n\n3 3\nq\np\n=\n=\n \n\n4 3\nq\np\n=\n=\n \n\n5 3\nq\np\n=\n=\n \n\n6 3\nq\np\n=\n=\n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n3/10\n \n SECTION 2 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \noption(s) is(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks.",
+        "options": [
+            "2, ",
+            "2, ",
+            "1, ",
+            "1, ",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Let \n\uf07b\n\uf07d\n2 : ,\n,\nS\na\nb\na b\n=\n+\n\uf0ce\n \n(\n)\n\uf07b\n\uf07d\n1\n1\n2\n : \nn\nT\nn\n=\n\u2212+\n\uf0ce\n,  and \n(\n)\n\uf07b\n\uf07d\n2\n1\n2\n : \n.\nn\nT\nn\n=\n+\n\uf0ce\n     \nThen which of the following statements is (are) TRUE? \n \n\n2\nT\nT\nS\n\uf0cc\n \n\n1\n0, 2024\nT\n\uf066\n\uf0e6\n\uf0f6=\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n, where \uf066 denotes the empty set. \n\n)\n2\n2024,\nT\n\uf066\n\uf0a5\uf0b9\n \n\n,\na b\uf0ce\n \n(\n)\n(\n)\n(\n)\n(\n)\ncos\n2\nsin\n2\na\nb\ni\na\nb\n\uf070\n\uf070\n+\n+\n+\n\uf0ce\n if and only if \n0,\nb =\n \n       where \n1\ni =\n\u2212. \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n4/10",
+        "options": [
+            "1",
+            "1",
+            "(",
+            "For any given  ,"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Let \n2 denote \n.\n\uf0b4\n Let \n\uf07b\n\uf07d\n\uf07b\n\uf07d\n2\n2\n2\n( , , ) : , ,\n and \n2\n0 for all ( , )\n(0,0)\n.\nS\na b c\na b c\nax\nbxy\ncy\nx y\n=\n\uf0ce\n+\n+\n\uf03e\n\uf0ce\n\u2212\n \nThen which of the following statements is (are) TRUE? \n\n2,\n,6\n2\nS\n\uf0e6\n\uf0f6\uf0ce\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n \n\n1\n3, ,\n,\n12\nb\nS\n\uf0e6\n\uf0f6\uf0ce\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n then | 2 |\nb < 1. \n\n)\n, ,\n,\na b c\nS\n\uf0ce\n the system of linear equations  \n1  \n1\nax\nby\nbx\ncy\n+\n=\n+\n= \u2212\n \n        has a unique solution. \n\n)\n, ,\n,\na b c\nS\n\uf0ce\n the system of linear equations  \n(\n1)\n0  \n(\n1)\n0\na\nx\nby\nbx\nc\ny\n+\n+\n=\n+\n+\n=\n \n        has a unique solution.",
+        "options": [
+            "7",
+            "If  ",
+            "For any given (",
+            "For any given ("
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "Let \n3  denote the three-dimensional space. Take two points \n(1,2,3)\nP =\n and \n(4,2,7).\nQ =\n Let \n(\n, )\ndist X Y  denote the distance between two points X and Y in \n3. Let  \n(\n)\n(\n)\n\uf07b\n\uf07d\n2\n2\n3 :  \n(\n, )\n(\n,\n)\n50\nS\nX\ndist X P\ndist X Q\n=\n\uf0ce\n\u2212\n=\n and \n(\n)\n(\n)\n\uf07b\n\uf07d\n2\n2\n3 :  \n( ,\n)\n( , )\n50 .\nT\nY\ndist Y Q\ndist Y P\n=\n\uf0ce\n\u2212\n=\n \nThen which of the following statements is (are) TRUE?  \n \n    \nS  \n    \n          LM is also in .\nT  \n    \n           the other two vertices are from .\nT  \n    \n           from .\nT   \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n5/10",
+        "options": [
+            "There is a triangle whose area is 1 and all of whose vertices are from .",
+            "There are two distinct points L  and M  in T such that each point on the line segment ",
+            "There are infinitely many rectangles of perimeter 48, two of whose vertices are from S and  ",
+            "There is a square of perimeter 48, two of whose vertices are from S and the other two vertices are  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "Let \n3 2\na =\nand \n1/6\n1\n5\n6\nb =\n.  If ,x y \uf0ce\n are such that \n \n                                     \n(\n)\n5\n4\n3\n2\nlog\n18\na\nx\ny\n+\n=\n           and       \n                                    \n(\n)\n2\nlog\n1080 ,\nb\nx\ny\n\u2212\n=\n \nthen 4\n5\nx\ny\n+\n is equal to  ________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "Let \n4\n3\n2\n( )\nf x\nx\nax\nbx\nc\n=\n+\n+\n+\n be a polynomial with real coefficients such that\n(1)\n9.\nf\n= \u2212\n Suppose \nthat \n3\ni\n is a root of the equation \n3\n2\n4\n3\n2\n0,\nx\nax\nbx\n+\n+\n=\n where \n1\ni =\n\u2212. If \n1\n2\n3\n4\n,\n,\n, and \n\uf061\uf061\uf061\n\uf061are \nall the roots of the equation \n( )\n0,\nf x =\n then \n2\n2\n2\n2\n1\n2\n3\n4\n\uf061\n\uf061\n\uf061\n\uf061\n+\n+\n+\nis equal to ______.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Let \ud835\udc46= {\ud835\udc34= (\n0\n1\n\ud835\udc50\n1\n\ud835\udc4e\n\ud835\udc51\n1\n\ud835\udc4f\n\ud835\udc52\n) \u2236  \ud835\udc4e, \ud835\udc4f, \ud835\udc50, \ud835\udc51, \ud835\udc52\u2208{0, 1} and |\ud835\udc34| \u2208 {\u22121, 1}}, where |\ud835\udc34| denotes the \ndeterminant of  \ud835\udc34. Then the number of elements in \ud835\udc46 is _______.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "A group of 9students, \n1\n2\n9\n,\n,\n,\n,\ns s\ns\n is to be divided to form three teams \n, , and \nX Y\nZ  of sizes \n2,3, and 4, respectively. Suppose that \n1s  cannot be selected for the team \n,\nX  and \n2s  cannot be \nselected for the team .\nY  Then the number of ways to form such teams, is _______.  \n \n \n \n \n \n \n \nSECTION 3 (Maximum Marks: 24) \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NON-NEGATIVE INTEGER. \n\u2022 \nFor each question, enter the correct integer corresponding to the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct integer is entered; \nZero Marks \n:     0   In all other cases. \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n6/10",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "Let \n1\n1\n\u02c6\n\u02c6\n\u02c6\n\u02c6\n\u02c6\n\u02c6\n, \nOP\ni\nj\nk OQ\ni\nj\nk\n\uf061\n\uf062\n\uf061\n\uf062\n\u2212\n\u2212\n=\n+\n+\n= +\n+\n and  \n1 \u02c6\n\u02c6\n\u02c6\n2\nOR\ni\nj\nk\n= +\n+\n be three vectors, where \n\uf07b\uf07d\n,\n0\n\uf061\uf062\uf0ce\n\u2212\n and O denotes the origin.  If (\n)\n0\nOP OQ\nOR\n\uf0b4\n\uf0d7\n=\nand the point ( ,\n,2)\n\uf061\uf062\n lies on \nthe plane 3\n3\n0,\nx\ny\nz\nl\n+\n\u2212\n+ =\nthen the value of l  is ________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Let X be a random variable, and let \n(\n)\nP X\nx\n=\n denote the probability that X  takes the value .x\nSuppose that the points (\n)\n, (\n)\nx P X\nx\n=\n, \n0,1,2,3,4,\nx =\nlie on a fixed straight line in the xy -plane, \nand \n(\n)\n0\nP X\nx\n=\n=\nfor all \n\uf07b\n\uf07d\n0,1,2,3,4 .\nx\uf0ce\n\u2212\n If the mean of X is 5\n2\n, and the variance of X is \n,\n\uf061then the value of 24\uf061is ______. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n7/10",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "Let \uf061and \uf062 be the distinct roots of the equation \n2\n1\n0.\nx\nx\n+\n\u2212=\n Consider the set \n\uf07b\n\uf07d\n1, ,\n.\nT\n\uf061\uf062\n=\n \nFor a 3 3\n\uf0b4matrix \n(\n)3 3 ,\nij\nM\na\n\uf0b4\n=\n define \n1\n2\n3\ni\ni\ni\ni\nR\na\na\na\n=\n+\n+\n and \n1\n2\n3\nj\nj\nj\nj\nC\na\na\na\n=\n+\n+\n for \n1,2,3\ni =\nand\n1,2,3.\nj =\n  \n \nMatch each entry in List-I to the correct entry in List-II. \n \nList-I \n              List-II \n(P)  The number of matrices \n(\n)3 3\nij\nM\na\n\uf0b4\n=\nwith  \n       all entries in T such that \n0\ni\nj\nR\nC\n=\n=\n  \n       for all , ,\ni j  is  \n \n(1)     1 \n(Q) The number of symmetric matrices   \n      \n(\n)3 3\nij\nM\na\n\uf0b4\n=\n with all entries in T such that  \n      \n0 for all  ,\nj\nC\nj\n=\n is \n        \n(2)     12 \n(R)  Let \n(\n)3 3\nij\nM\na\n\uf0b4\n=\n be a skew symmetric    \n       matrix such that \nij\na\nT\n\uf0ce\nfor i\nj\n\uf03e\n. Then  \n       the number of elements in the set  \n      \n12\n23\n :  , ,\n, \n0\nx\nx\na\ny\nx y z\nM\ny\nz\nz\na\n\uf0ec\n\uf0fc\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n\uf0ef\n\uf0ef\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ce\n=\n\uf0ed\n\uf0fd\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0ef\n\uf0ef\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\u2212\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n\uf0ee\n\uf0fe\n is   \n         \n(3)     infinite \n(S) Let \n(\n)3 3\nij\nM\na\n\uf0b4\n=\n be a matrix with all  \n      entries in T such that \n0 for\niR =\nall .i  \n      Then the absolute value of the determinant  \n      of M  is  \n(4)     6 \n \n(5)     0 \nThe correct option is \n    \n(4)     (Q)\n(2)     (R)\n(5)    (S)\n(1)\n\u2192\n\u2192\n\u2192\n\u2192\n \n    \n(2)     (Q)\n(4)     (R)\n(1)     (S)\n(5)\n\u2192\n\u2192\n\u2192\n\u2192\n \n    \n(2)     (Q)\n(4)     (R)\n(3)     (S)\n(5)\n\u2192\n\u2192\n\u2192\n\u2192\n \n    \n(1)      (Q)\n(5)     (R)\n(3)     (S)\n(4)\n\u2192\n\u2192\n\u2192\n\u2192\n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains FOUR (04) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +3 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n8/10",
+        "options": [
+            "(P)",
+            "(P)",
+            "(P)",
+            "(P)"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Let the straight line \n2\ny\nx\n=\n touch a circle with center (0,\n),  > 0,\n\uf061\n\uf061\n and radius r  at a point \n1.\nA   \nLet \n1B be the point on the circle such that the line segment \n1\n1\nA B is a diameter of the circle.  Let \n5\n5.\nr\n\uf061+\n=\n+\n  \n \nMatch each entry in  List-I to the correct entry in  List-II. \n \nList-I \nList-II \n(P)  \uf061 equals \n(1)  ( 2,4)\n\u2212\n \n(Q) r   equals \n(2) 5  \n(R) \n1A   equals \n(3) ( 2,6)\n\u2212\n \n(S) \n1B   equals \n(4) 5 \n \n(5) (2,4)  \n \nThe correct option is \n \n\n(4)     (Q)\n(2)     (R)\n(1)     (S)\n(3)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(2)     (Q)\n(4)     (R)\n(1)     (S)\n(3)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(4)     (Q)\n(2)     (R)\n(5)     (S)\n(3)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(2)     (Q)\n(4)     (R)\n(3)     (S)\n(5)\n\u2192\n\u2192\n\u2192\n\u2192\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n9/10",
+        "options": [
+            "(P)",
+            "(P)",
+            "(P)",
+            "(P)"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "Let \uf067\uf0ce\nbe such that the lines \n1\n11\n21\n29\n:\n1\n2\n3\nx\ny\nz\nL\n+\n+\n+\n=\n=\n and \n2\n16\n11\n4\n:\n3\n2\nx\ny\nz\nL\n\uf067\n+\n+\n+\n=\n=\n \nintersect. Let \n1R  be the point of intersection of \n1L  and \n2.\nL  Let \n(0,0,0),\nO =\n and \u02c6n  denote a unit \nnormal vector to the plane containing both the lines \n1L and \n2.\nL   \n \nMatch each entry in  List-I to the correct entry in  List-II. \n \n \nList-I \n  List-II \n(P) \uf067equals \n(1) \n\u02c6\n\u02c6\n\u02c6\ni\nj\nk\n\u2212\u2212\n+\n \n(Q) A possible choice for \u02c6n is \n(2) \n3\n2\n \n(R) \n1\nOR  equals \n(3) 1 \n(S) A possible value of \n1 \u02c6\nOR n\n\uf0d7\n is \n(4) 1\n2\n1 \u02c6\n\u02c6\n\u02c6\n6\n6\n6\ni\nj\nk\n\u2212\n+\n \n \n(5) \n2\n3\n \n \n \nThe correct option is \n                \n\n(3)     (Q)\n(4)     (R)\n(1)     (S)\n(2)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(5)     (Q)\n(4)     (R)\n(1)     (S)\n(2)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(3)     (Q)\n(4)     (R)\n(1)     (S)\n(5)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(3)     (Q)\n(1)     (R)\n(4)     (S)\n(5)\n\u2192\n\u2192\n\u2192\n\u2192\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n10/10",
+        "options": [
+            "(P)",
+            "(P)",
+            "(P)",
+            "(P)"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "Let \n:\nf\n\u2192\n and \n:\ng\n\u2192\nbe functions defined by  \n1\n|\n| sin\n,    \n0, \n( )\n0,                       \n0,\nx x\nx\nf x\nx\nx\n\uf0ec\n\uf0e6\n\uf0f6\n\uf0b9\n\uf0ef\n\uf0e7\n\uf0f7\n=\n\uf0e8\n\uf0f8\n\uf0ed\n\uf0ef\n=\n\uf0ee\n    and   \n1\n1 2 ,  0\n , \n( )\n2\n0,         otherwise .\nx\nx\ng x\n\uf0ec\u2212\n\uf0a3\n\uf0a3\n\uf0ef\n= \uf0ed\n\uf0ef\uf0ee\n \nLet , , ,\n.\na b c d \uf0ce\n Define the function :\nh\n\u2192\n by \n(\n)\n \n1\n( )\n ( )\n( )\n( )\n( ), \n.\n2\nh x\na f x\nb g x\ng\nx\nc x\ng x\nd g x\nx\n\uf0e6\n\uf0f6\n\uf0e6\n\uf0f6\n=\n+\n+\n\u2212\n+\n\u2212\n+\n\uf0ce\n\uf0e7\n\uf0f7\n\uf0e7\n\uf0f7\n\uf0e8\n\uf0f8\n\uf0e8\n\uf0f8\n \nMatch each entry in  List-I to the correct entry in  List-II. \n \nList-I \nList-II \n(P) If \n0, \n1, \n0, and  \n0,\na\nb\nc\nd\n=\n=\n=\n=\n then \n(1) h is one-one. \n(Q) If \n1, \n0, \n0, and  \n0,\na\nb\nc\nd\n=\n=\n=\n=\n then \n(2) h is onto. \n(R) If \n0, \n0, \n1, and  \n0,\na\nb\nc\nd\n=\n=\n=\n=\n then \n(3) h is differentiable on \n.  \n(S) If \n0, \n0, \n0, and  \n1,\na\nb\nc\nd\n=\n=\n=\n=\n then \n(4) the range of h is \uf05b\n\uf05d\n0,1 . \n \n(5) the range of h is \uf07b\n\uf07d\n0,1 . \n \nThe correct option is \n \n\n(4)     (Q)\n(3)     (R)\n(1)     (S)\n(2)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(5)     (Q)\n(2)     (R)\n(4)     (S)\n(3)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(5)     (Q)\n(3)     (R)\n(2)     (S)\n(4)\n\u2192\n\u2192\n\u2192\n\u2192\n \n\n(4)     (Q)\n(2)     (R)\n(1)     (S)\n(3)\n\u2192\n\u2192\n\u2192\n\u2192\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nEND OF THE QUESTION PAPER \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n1/8\n \n \n \nSECTION 1 (Maximum Marks: 12) \n\u2022 \nThis section contains FOUR (04) questions. \n\u2022 \nEach question has FOUR options \nanswer. \n\u2022 \nFor each question, choose the option corresponding to the correct answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks           :  +3 If ONLY the correct option is chosen; \n      Zero Marks \n:    0 If none of the options is chosen (i.e. the question is unanswered); \n      Negative Marks  :  \u22121   In all other cases.",
+        "options": [
+            "(P)",
+            "(P)",
+            "(P)",
+            "(P)",
+            ", (B), (C) and (D). ONLY ONE of these four options is the correct "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "A dimensionless quantity is constructed in terms of electronic charge \ud835\udc52, permittivity of free space \n\ud835\udf000, Planck\u2019s  constant \u210e, and speed of light \ud835\udc50. If the dimensionless quantity is written as \ud835\udc52\ud835\udefc\ud835\udf000\ud835\udefd\u210e\ud835\udefe\ud835\udc50\ud835\udeff \nand \ud835\udc5b is a non-zero integer, then (\ud835\udefc, \ud835\udefd, \ud835\udefe, \ud835\udeff) is given by",
+        "options": [
+            "(2\ud835\udc5b, \u2212\ud835\udc5b, \u2212\ud835\udc5b, \u2212\ud835\udc5b) ",
+            "(\ud835\udc5b, \u2212\ud835\udc5b, \u22122\ud835\udc5b, \u2212\ud835\udc5b) ",
+            "(\ud835\udc5b, \u2212\ud835\udc5b, \u2212\ud835\udc5b, \u22122\ud835\udc5b) ",
+            "(2\ud835\udc5b, \u2212\ud835\udc5b, \u22122\ud835\udc5b, \u22122\ud835\udc5b) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "An infinitely long wire, located on the \ud835\udc67-axis, carries a current \ud835\udc3c along the +\ud835\udc67-direction and \nproduces the magnetic field \ud835\udc35\u20d7 . The magnitude of the line integral \u222b\ud835\udc35\u20d7 \u22c5\ud835\udc51\ud835\udc59\n\u20d7\u20d7\u20d7  along a straight line from \nthe point (\u2212\u221a3\ud835\udc4e, \ud835\udc4e, 0)  to (\ud835\udc4e, \ud835\udc4e, 0) is given by \n \n[\ud835\udf070 is the magnetic permeability of free space.]",
+        "options": [
+            "7\ud835\udf070\ud835\udc3c/24 ",
+            "7\ud835\udf070\ud835\udc3c/12 ",
+            "\ud835\udf070\ud835\udc3c/8 ",
+            "\ud835\udf070\ud835\udc3c/6 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "Two beads, each with charge \ud835\udc5e and mass \ud835\udc5a, are on a horizontal, frictionless, non-conducting, \ncircular hoop of radius \ud835\udc45. One of the beads is glued to the hoop at some point, while the other one \nperforms small oscillations about its equilibrium position along the hoop. The square of the angular \nfrequency of the small oscillations is given by  \n \n[\ud835\udf000 is the permittivity of free space.]",
+        "options": [
+            "\ud835\udc5e2/(4\ud835\udf0b\ud835\udf000\ud835\udc453\ud835\udc5a) ",
+            "\ud835\udc5e2/(32\ud835\udf0b\ud835\udf000\ud835\udc453\ud835\udc5a) ",
+            "\ud835\udc5e2/(8\ud835\udf0b\ud835\udf000\ud835\udc453\ud835\udc5a) ",
+            "\ud835\udc5e2/(16\ud835\udf0b\ud835\udf000\ud835\udc453\ud835\udc5a) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "A block of mass 5 kg moves along the x-direction subject to the force \ud835\udc39= (\u221220\ud835\udc65+ 10) N, with \nthe value of \ud835\udc65 in metre. At time \ud835\udc61= 0 s, it is at rest at position \ud835\udc65= 1 m. The position and \nmomentum of the block at \ud835\udc61= (\ud835\udf0b/4) s are \n\n\n\n\n \n \n \n \nPhysics\n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n2/8\n \n \n \n SECTION 2 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \nis(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks.",
+        "options": [
+            "\u22120.5 m, 5 kg m/s ",
+            "0.5 m, 0 kg m/s ",
+            "0.5 m, \u22125 kg m/s ",
+            "\u22121 m, 5 kg m/s ",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "A particle of mass \ud835\udc5a is moving in a circular orbit under the influence of the central force  \n\ud835\udc39(\ud835\udc5f) = \u2212\ud835\udc58\ud835\udc5f, corresponding to the potential energy \ud835\udc49(\ud835\udc5f) = \ud835\udc58\ud835\udc5f2/2, where \ud835\udc58 is a positive force \nconstant and \ud835\udc5f is the radial distance from the origin. According to the Bohr\u2019s quantization rule, the \nangular momentum of the particle is given by \ud835\udc3f= \ud835\udc5b\u210f, where \u210f= \u210e/(2\ud835\udf0b), \u210e is the Planck\u2019s \nconstant, and \ud835\udc5b a positive integer. If \ud835\udc63 and \ud835\udc38 are the speed and total energy of the particle, \nrespectively, then which of the following expression(s) is(are) correct? \n \n\n\ud835\udc5a\ud835\udc58 \n\n\ud835\udc5a3 \n\n\ud835\udc5a\ud835\udc5f2 = \u221a\ud835\udc58\n\ud835\udc5a \n\n\ud835\udc5b\u210f\n2 \u221a\ud835\udc58\n\ud835\udc5a \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n3/8",
+        "options": [
+            "\ud835\udc5f2 = \ud835\udc5b\u210f\u221a1",
+            "\ud835\udc632 = \ud835\udc5b\u210f\u221a\ud835\udc58",
+            "\ud835\udc3f",
+            "\ud835\udc38="
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Two uniform strings of mass per unit length \ud835\udf07 and 4\ud835\udf07, and length \ud835\udc3f and 2\ud835\udc3f, respectively, are joined \nat point O, and tied at two fixed ends P and Q, as shown in the figure. The strings are under a \nuniform tension \ud835\udc47. If we define the frequency \ud835\udf080 =\n1\n2\ud835\udc3f\u221a\n\ud835\udc47\n\ud835\udf07 , which of the following statement(s) \nis(are) correct? \n \n \n \n\n\n\nincluding the end nodes.",
+        "options": [
+            "With a node at O, the minimum frequency of vibration of the composite string is \ud835\udf080. ",
+            "With an antinode at O, the minimum frequency of vibration of the composite string is 2\ud835\udf080. ",
+            "When the composite string vibrates at the minimum frequency with a node at O, it has 6 nodes, ",
+            "No vibrational mode with an antinode at O is possible for the composite string. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "A glass beaker has a solid, plano-convex base of refractive index 1.60, as shown in the figure. The \nradius of curvature of the convex surface (SPU) is 9 cm, while the planar surface (STU) acts as a \nmirror. This beaker is filled with a liquid of refractive index \ud835\udc5b up to the level QPR. If the image of \na point object O at a height of \u210e (OT in the figure) is formed onto itself, then, which of the \nfollowing option(s) is(are) correct?  \n \n \n\n\n\n\n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n4/8",
+        "options": [
+            "For \ud835\udc5b =  1.42, \u210e= 50 cm. ",
+            "For \ud835\udc5b =  1.35, \u210e =  36 cm. ",
+            "For \ud835\udc5b =  1.45, \u210e= 65 cm. ",
+            "For \ud835\udc5b =  1.48, \u210e = 85 cm. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "The specific heat capacity of a substance is temperature dependent and is given by the formula \n\ud835\udc36 =  \ud835\udc58\ud835\udc47, where \ud835\udc58 is a constant of suitable dimensions in SI units, and \ud835\udc47 is the absolute \ntemperature. If the heat required to raise the temperature of 1 kg of the substance from \u221273 \u00b0C to \n27 \u00b0C is \ud835\udc5b\ud835\udc58, the value of \ud835\udc5b is _____. \n \n [Given: 0 K = \u2212273 \u00b0C.]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "A disc of mass \ud835\udc40 and radius \ud835\udc45 is free to rotate about its vertical axis as shown in the figure. A \nbattery operated motor of negligible mass is fixed to this disc at a point on its circumference. \nAnother disc of the same mass \ud835\udc40 and radius \ud835\udc45/2 is fixed to the motor\u2019s thin shaft. Initially, both \nthe discs are at rest. The motor is switched on so that the smaller disc rotates at a uniform angular \nspeed \ud835\udf14. If the angular speed at which the large disc rotates is \ud835\udf14/\ud835\udc5b, then the value of \ud835\udc5b is _____.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "A point source S emits unpolarized light uniformly in all directions.  At two points A and B, the \nratio \ud835\udc5f= \ud835\udc3c\ud835\udc34/\ud835\udc3c\ud835\udc35 of the intensities of light is 2. If a set of two polaroids having 45\u00b0 angle between \ntheir pass-axes is placed just before point B, then the new value of \ud835\udc5f will be _____. \n \n \n \n \n \n \nSECTION 3 (Maximum Marks: 24) \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NON-NEGATIVE INTEGER. \n\u2022 \nFor each question, enter the correct integer corresponding to the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct integer is entered; \nZero Marks \n:     0   In all other cases. \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n5/8",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "A source (S) of sound has frequency 240 Hz. When the observer (O) and the source move towards \neach other at a speed \ud835\udc63 with respect to the ground (as shown in Case 1 in the figure), the observer \nmeasures the frequency of the sound to be 288 Hz. However, when the observer and the source \nmove away from each other at the same speed \ud835\udc63 with respect to the ground (as shown in Case 2 in \nthe figure), the observer measures the frequency of sound to be \ud835\udc5b Hz. The value of \ud835\udc5b is _____.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "Two large, identical water tanks, 1 and 2, kept on the top of a building of height \ud835\udc3b, are filled with \nwater up to height \u210e in each tank.  Both the tanks contain an identical hole of small radius on their \nsides, close to their bottom. A pipe of the same internal radius as that of the hole is connected to \ntank 2, and the pipe ends at the ground level. When the water flows from the tanks 1 and 2 through \nthe holes, the times taken to empty the tanks are \ud835\udc611 and \ud835\udc612, respectively. If \ud835\udc3b= (\n16\n9 ) \u210e, then the \nratio \ud835\udc611/\ud835\udc612 is _____.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "A thin uniform rod of length \ud835\udc3f and certain mass is kept on a frictionless horizontal table with a \nmassless string of length \ud835\udc3f fixed to one end (top view is shown in the figure). The other end of the \nstring is pivoted to a point O. If a horizontal impulse \ud835\udc43 is imparted to the rod at a distance \ud835\udc65= \ud835\udc3f/\ud835\udc5b \nfrom the mid-point of the rod (see figure), then the rod and string revolve together around the point \nO, with the rod remaining aligned with the string. In such a case, the value of \ud835\udc5b is _____. \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n6/8",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "One mole of a monatomic ideal gas undergoes the cyclic process J\u2192 K\u2192 L\u2192 M\u2192 J, as shown in \nthe P-T diagram. \n \n \n \nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n \n [\u211b is the gas constant.] \n \nList-I \nList-II \n(P) Work done in the complete cyclic process \n(1) \u211b\ud835\udc470 \u22124\u211b\ud835\udc470 ln 2 \n(Q) Change in the internal energy of the gas in the \nprocess JK \n(2) 0 \n(R) Heat given to the gas in the process KL \n(3) 3\u211b\ud835\udc470 \n(S) Change in the internal energy of the gas in the \nprocess MJ \n(4) \u22122\u211b\ud835\udc470 ln 2 \n \n(5) \u22123\u211b\ud835\udc470 ln 2 \n\n\n\n\n \n \n \n \n \n \n \n \n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains FOUR (04) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +3 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n7/8",
+        "options": [
+            "P \u2192 1; Q \u2192 3; R \u2192 5; S \u2192 4 ",
+            "P \u2192 4; Q \u2192 3; R \u2192 5; S \u2192 2 ",
+            "P \u2192 4; Q \u2192 1; R \u2192 2; S \u2192 2 ",
+            "P \u2192 2; Q \u2192 5; R \u2192 3; S \u2192 4 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Four identical thin, square metal sheets, \ud835\udc461, \ud835\udc462, \ud835\udc463 and \ud835\udc464, each of side \ud835\udc4e are kept parallel to each \nother with equal distance \ud835\udc51 (\u226a\ud835\udc4e) between them, as shown in the figure. Let \ud835\udc360 = \ud835\udf000\ud835\udc4e2/\ud835\udc51, where \n\ud835\udf000 is the permittivity of free space.  \n \nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n \nList-I \nList-II \n(P) The capacitance between \ud835\udc461 and \ud835\udc464, with \n\ud835\udc462 and \ud835\udc463 not connected, is \n(1) 3\ud835\udc360 \n(Q) The capacitance between \ud835\udc461 and \ud835\udc464, with \n\ud835\udc462 shorted to \ud835\udc463, is \n(2) \ud835\udc360/2 \n(R) The capacitance between \ud835\udc461 and \ud835\udc463, with \n\ud835\udc462 shorted to \ud835\udc464, is \n(3) \ud835\udc360/3 \n(S) The capacitance between \ud835\udc461  and \ud835\udc462, with \n\ud835\udc463 shorted to \ud835\udc461, and \ud835\udc462 shorted to \ud835\udc464, is \n(4) 2\ud835\udc360/3 \n \n(5) 2\ud835\udc360",
+        "options": [
+            "P \u2192 3; Q \u2192 2; R \u2192 4; S \u2192 5 ",
+            "P \u2192 2; Q \u2192 3; R \u2192 2; S \u2192 1 ",
+            "P \u2192 3; Q \u2192 2; R \u2192 4; S \u2192 1 ",
+            "P \u2192 3; Q \u2192 2; R \u2192 2; S \u2192 5 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "A light ray is incident on the surface of a sphere of refractive index \ud835\udc5b at an angle of incidence \ud835\udf030. \nThe ray partially refracts into the sphere with angle of refraction \ud835\udf190 and then partly reflects from \nthe back surface. The reflected ray then emerges out of the sphere after a partial refraction. The \ntotal angle of deviation of the emergent ray with respect to the incident ray is \ud835\udefc. Match the \nquantities mentioned in List-I with their values in List-II and choose the correct option. \n \nList-I \nList-II \n(P) If \ud835\udc5b= 2 and \ud835\udefc= 180\u00b0, then all the \npossible values of \ud835\udf030 will be \n(1) 30\u00b0 and 0\u00b0 \n(Q) If \ud835\udc5b= \u221a3 and \ud835\udefc= 180\u00b0, then all the \npossible values of \ud835\udf030 will be \n(2) 60\u00b0 and 0\u00b0 \n(R) If \ud835\udc5b= \u221a3 and \ud835\udefc= 180\u00b0, then all the \npossible values of \ud835\udf190 will be \n(3) 45\u00b0 and 0\u00b0 \n(S) If \ud835\udc5b= \u221a2 and \ud835\udf030 = 45\u00b0, then all the \npossible values of \ud835\udefc will be \n(4) 150\u00b0 \n \n(5) 0\u00b0 \n\n\n\n\n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n8/8",
+        "options": [
+            "P \u2192 5; Q \u2192 2; R\u2192 1; S\u2192 4 ",
+            "P \u2192 5; Q \u2192 1; R\u2192 2; S\u2192 4 ",
+            "P \u2192 3; Q \u2192 2; R\u2192 1; S\u2192 4 ",
+            "P \u2192 3; Q \u2192 1; R\u2192 2; S\u2192 5 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "The circuit shown in the figure contains an inductor \ud835\udc3f, a capacitor \ud835\udc360, a resistor \ud835\udc450 and an \nideal battery. The circuit also contains two keys K1 and K2.  Initially, both the keys are \nopen and there is no charge on the capacitor. At an instant, key K1 is closed and \nimmediately after this the current in \ud835\udc450 is found to be \ud835\udc3c1. After a long time, the current \nattains a steady state value \ud835\udc3c2. Thereafter, K2 is closed and simultaneously K1 is opened and \nthe voltage across \ud835\udc360 oscillates with amplitude \ud835\udc490 and angular frequency \ud835\udf140. \n \n \nMatch the quantities mentioned in List-I with their values in List-II and choose the correct option. \n \nList-I \nList-II \n(P) The value of \ud835\udc3c1 in Ampere is \n(1) 0 \n(Q) The value of \ud835\udc3c2 in Ampere is \n(2) 2 \n(R) The value of \ud835\udf140 in kilo-radians/s is \n(3) 4 \n(S) The value of \ud835\udc490 in Volt is \n(4) 20 \n \n(5) 200 \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \nEND OF THE QUESTION PAPER \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n1/12\n \n \nSECTION 1 (Maximum Marks: 12) \n\u2022 \nThis section contains FOUR (04) questions. \n\u2022 \nEach question has FOUR options \nanswer. \n\u2022 \nFor each question, choose the option corresponding to the correct answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks           :  +3 If ONLY the correct option is chosen; \n      Zero Marks \n:    0 If none of the options is chosen (i.e. the question is unanswered); \n      Negative Marks  :  \u22121   In all other cases.",
+        "options": [
+            "P \u2192 1; Q \u2192 3; R \u2192 2; S \u2192 5 ",
+            "P \u2192 1; Q \u2192 2; R \u2192 3; S \u2192 5 ",
+            "P \u2192 1; Q \u2192 3; R \u2192 2; S \u2192 4 ",
+            "P \u2192 2; Q \u2192 5; R \u2192 3; S \u2192 4 ",
+            ", (B), (C) and (D). ONLY ONE of these four options is the correct "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "A closed vessel contains 10 g of an ideal gas X at 300 K, which exerts 2 atm pressure. At the same \ntemperature, 80 g of another ideal gas Y is added to it and the pressure becomes 6 atm. The ratio of \nroot mean square velocities of X and Y at 300 K is",
+        "options": [
+            "2\u221a2 \u2236\u221a3 ",
+            "2\u221a2 \u22361 ",
+            "1 \u22362 ",
+            "2 \u22361 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "At room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid \n(HNO2) gives the species \n\n\n\n\n \n \n \n \nChemistry\n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n2/12",
+        "options": [
+            "H3O+, NO3\u2212 and NO ",
+            "H3O+, NO3\u2212 and NO2 ",
+            "H3O+, NO\u2212 and NO2 ",
+            "H3O+, NO3\u2212 and N2O "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "Aspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure \nof aspartame is \n \n                             Structures of phenylalanine and aspartic acid are given below.",
+        "options": [
+            "(B) ",
+            "(D) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Among the following options, select the option in which each complex in Set-I shows geometrical \nisomerism and the two complexes in Set-II are ionization isomers of each other. \n[en = H2NCH2CH2NH2] \n \n\n        Set-II: [Co(NH3)5Cl]SO4 and [Co(NH3)5(SO4)]Cl \n \n\n        Set-II: [Co(NH3)6][Cr(CN)6] and [Cr(NH3)6][Co(CN)6] \n \n\n        Set-II: [Co(NH3)5Cl]SO4 and [Co(NH3)5(SO4)]Cl \n \n\n        Set-II: [Cr(H2O)6]Cl3 and [Cr(H2O)5Cl]Cl2\u2219H2O \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n3/12\n \n SECTION 2 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \nis(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks.",
+        "options": [
+            "Set-I: [Ni(CO)4] and [PdCl2(PPh3)2] ",
+            "Set-I: [Co(en)(NH3)2Cl2] and [PdCl2(PPh3)2] ",
+            "Set-I: [Co(NH3)3(NO2)3] and [Co(en)2Cl2] ",
+            "Set-I: [Cr(NH3)5Cl]Cl2 and [Co(en)(NH3)2Cl2] ",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four option(s) ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Among the following, the correct statement(s) for electrons in an atom is(are) \n\n\n          is infinitely far away from the nucleus. \n\n         which corresponds to the most stable orbit. \n\n         values of n. \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n4/12",
+        "options": [
+            "Uncertainty principle rules out the existence of definite paths for electrons. ",
+            "The energy of an electron in 2s orbital of an atom is lower than the energy of an electron that     ",
+            "According to Bohr\u2019s model, the most negative energy value for an electron is given by n = 1,  ",
+            "According to Bohr\u2019s model, the magnitude of velocity of electrons increases with increase in      "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Reaction of iso-propylbenzene with O2 followed by the treatment with H3O+ forms phenol and a \nby-product P. Reaction of P with 3 equivalents of Cl2 gives compound Q. Treatment of Q with \nCa(OH)2 produces compound R and calcium salt S. \nThe correct statement(s) regarding P, Q, R and S is(are)",
+        "options": [
+            "Reaction of P with R in the presence of KOH followed by acidification gives ",
+            "Reaction of R with O2 in the presence of light gives phosgene gas ",
+            "Q reacts with aqueous NaOH to produce Cl3CCH2OH and Cl3CCOONa ",
+            "S on heating gives P "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "The option(s) in which at least three molecules follow Octet Rule is(are) \n\n\n\n\n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n5/12",
+        "options": [
+            "CO2, C2H4, NO and HCl ",
+            "NO2, O3, HCl and H2SO4 ",
+            "BCl3, NO, NO2 and H2SO4 ",
+            "CO2, BCl3, O3 and C2H4 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "Consider the following volume\u2212temperature (V\u2212T) diagram for the expansion of 5 moles of an \nideal monoatomic gas.  \n \n \n \n \n \n \n \n \n \n \nConsidering only P-V work is involved, the total change in enthalpy (in Joule) for the \ntransformation of state in the sequence X\u2192Y\u2192Z is ______. \n \n[Use the given data: Molar heat capacity of the gas for the given temperature range, CV, m = 12 J K\u22121 \nmol\u22121 and gas constant, R = 8.3 J K\u22121 mol\u22121] \n \n \n \n \n \n \nSECTION 3 (Maximum Marks: 24) \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NON-NEGATIVE INTEGER. \n\u2022 \nFor each question, enter the correct integer corresponding to the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct integer is entered; \nZero Marks \n:     0   In all other cases. \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n6/12",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "Consider the following reaction, \n \n( )\n( )\n( )\n( )\n2\n2\n2\n2H\ng  + 2NO g  \nN\ng  + 2H\ng\n \nO\n\u2192\n \n \nwhich follows the mechanism given below: \n \n( )\n( )\n(\n)\n1\n1\n2\n2\n2NO g  \n N O\ng                                         fast equlibrium\nk\nk\u2212\n \n                    \n( )\n( )\n( )\n( )\n(\n)\n2\n2\n2\n2\n2\n2\nN O\ng  + H\ng  \n  N O g  + H O g           slow reaction\nk\n\u2192\n \n( )\n( )\n( )\n( )\n(\n)\n3\n2\n2\n2\n2\nN O g  + H\ng  \n N\ng  + H O g                fast reaction\nk\n\u2192\n \n \n \nThe order of the reaction is ______.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Complete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. NaOH \nsolution, gives P and Q. Compound P does not give Tollens\u2019 test, whereas Q on acidification gives \npositive Tollens\u2019 test. Treatment of P with excess cyclohexanone in the presence of catalytic \namount of p-toluenesulfonic acid (PTSA) gives product R. \nSum of the number of methylene groups (-CH2-) and oxygen atoms in R is ______.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "Among V(CO)6, Cr(CO)5, Cu(CO)3, Mn(CO)5, Fe(CO)5, [Co(CO)3]3\u2212, [Cr(CO)4]4\u2212, and Ir(CO)3, \nthe total number of species isoelectronic with  Ni(CO)4 is ______. \n \n[Given, atomic number: V = 23, Cr = 24, Mn = 25, Fe = 26, Co = 27, Ni = 28, Cu = 29, Ir = 77] \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n7/12",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "In the following reaction sequence, the major product P is formed.  \n \nGlycerol reacts completely with excess P in the presence of an acid catalyst to form Q. Reaction of \nQ with excess NaOH followed by the treatment with CaCl2 yields Ca-soap R, quantitatively. \nStarting with one mole of Q, the amount of R produced in gram is ______. \n \n[Given, atomic weight: H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35, Ca = 40]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Among the following complexes, the total number of diamagnetic species is ______. \n \n[Mn(NH3)6]3+, [MnCl6]3\u2212, [FeF6]3\u2212, [CoF6]3\u2212, [Fe(NH3)6]3+, and [Co(en)3]3+  \n \n[Given, atomic number: Mn = 25, Fe = 26, Co = 27;  \n en = H2NCH2CH2NH2] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n8/12\n \n \n \n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains FOUR (04) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +3 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n9/12",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "In a conductometric titration, small volume of titrant of higher concentration is added stepwise to a \nlarger volume of titrate of much lower concentration, and the conductance is measured after each \naddition. \nThe limiting ionic conductivity (\u039b0) values (in mS m2 mol\u22121) for different ions in aqueous solutions \nare given below: \n \nIons Ag+ \nK+ \nNa+ \nH+ \nNO3\n\u2212 \nCl\u2212 \nSO4\n2\u2212 OH\u2212 \nCH3COO\u2212 \n\u039b0 \n6.2 \n7.4 \n5.0 \n35.0 \n7.2 \n7.6 \n16.0 \n19.9 \n4.1 \n \nFor different combinations of titrates and titrants given in List-I, the graphs of \u2018conductance\u2019 \nversus \u2018volume of titrant\u2019 are given in List-II.  \nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option. \n \n        List-I \n \nList-II \n \n(P) Titrate: KCl \n      Titrant: AgNO3 \n(1) \n(Q) Titrate: AgNO3 \n      Titrant: KCl \n(2) \n(R) Titrate: NaOH \n      Titrant: HCl \n(3) \n(S) Titrate: NaOH \n      Titrant: CH3COOH \n(4) \n \n(5) \n\n\n\n\n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n10/12",
+        "options": [
+            "P-4, Q-3, R-2, S-5 ",
+            "P-2, Q-4, R-3, S-1 ",
+            "P-3, Q-4, R-2, S-5 ",
+            "P-4, Q-3, R-2, S-1 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Based on VSEPR model, match the xenon compounds given in List-I with the corresponding \ngeometries and the number of lone pairs on xenon given in List-II and choose the correct option. \n \nList-I \nList-II \n(P) XeF2 \n(1) Trigonal bipyramidal and two lone pair of electrons \n(Q) XeF4 \n(2) Tetrahedral and one lone pair of electrons \n(R) XeO3 \n(3) Octahedral and two lone pair of electrons \n(S) XeO3F2 \n(4) Trigonal bipyramidal and no lone pair of electrons \n \n(5) Trigonal bipyramidal and three lone pair of electrons \n\n\n\n\n \n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n11/12",
+        "options": [
+            "P-5, Q-2, R-3, S-1 ",
+            "P-5, Q-3, R-2, S-4 ",
+            "P-4, Q-3, R-2, S-1 ",
+            "P-4, Q-2, R-5, S-3 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "List-I contains various reaction sequences and List-II contains the possible products. Match each \nentry in List-I with the appropriate entry in List-II and choose the correct option. \n \n                           List-I \nList-II \n(P)  \n(1) \n \n(Q) \n(2) \n \n(R)  \n(3) \n \n(S) \n(4) \n \n  \n  \n(5) \n\n\n\n\n \n\nJEE (Advanced) 2024 \n \n                               Paper 1 \n \n12/12",
+        "options": [
+            "P-3, Q-5, R-4, S-1 ",
+            "P-3, Q-2, R-4, S-1 ",
+            "P-3, Q-5, R-1, S-4 ",
+            "P-5, Q-2, R-4, S-1 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "List-I contains various reaction sequences and List-II contains different phenolic compounds. \nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option. \n \n                             List-I \n \nList-II \n(P)  \n \n(1) \n(Q) \n(2)  \n \n(R) \n \n(3)  \n(S) \n(4) \n \n \n(5)  \n \n \n\n\n\n\n \n \n \n \nEND OF THE QUESTION PAPER",
+        "options": [
+            "P-2, Q-3, R-4, S-5 ",
+            "P-2, Q-3, R-5, S-1 ",
+            "P-3, Q-5, R-4, S-1 ",
+            "P-3, Q-2, R-5, S-4 "
+        ],
+        "images": [],
+        "image_options": []
+    }
+]

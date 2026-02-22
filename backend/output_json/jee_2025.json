@@ -1,0 +1,563 @@
+[
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "Let \u211d denote the set of all real numbers. Let \ud835\udc4e\ud835\udc56, \ud835\udc4f\ud835\udc56\u2208\u211d for \ud835\udc56\u2208{1, 2, 3}.  \nDefine the functions \ud835\udc53: \u211d\u2192\u211d, \ud835\udc54: \u211d\u2192\u211d, and  \u210e: \u211d\u2192\u211d by \n \n\ud835\udc53(\ud835\udc65) = \ud835\udc4e1 + 10\ud835\udc65+ \ud835\udc4e2\ud835\udc652 + \ud835\udc4e3\ud835\udc653 + \ud835\udc654, \n\ud835\udc54(\ud835\udc65) = \ud835\udc4f1 + 3\ud835\udc65+ \ud835\udc4f2\ud835\udc652 + \ud835\udc4f3\ud835\udc653 + \ud835\udc654,    \n\u210e(\ud835\udc65) = \ud835\udc53(\ud835\udc65+ 1) \u2212\ud835\udc54(\ud835\udc65+ 2).                   \n \nIf \ud835\udc53(\ud835\udc65) \u2260\ud835\udc54(\ud835\udc65) for every \ud835\udc65\u2208 \u211d, then the coefficient of \ud835\udc653 in \u210e(\ud835\udc65) is",
+        "options": [
+            "8  ",
+            "2  ",
+            "\u22124  ",
+            "\u22126  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "Three students \ud835\udc461, \ud835\udc462, and \ud835\udc463 are given a problem to solve. Consider the following events: \n    \n\ud835\udc48:   At least one of \ud835\udc461, \ud835\udc462, and \ud835\udc463 can solve the problem, \n\ud835\udc49:   \ud835\udc461 can solve the problem, given that neither \ud835\udc462 nor \ud835\udc463 can solve the problem, \n\ud835\udc4a:  \ud835\udc462 can solve the problem and \ud835\udc463 cannot solve the problem, \n\ud835\udc47:   \ud835\udc463 can solve the problem.  \n \nFor any event \ud835\udc38, let \ud835\udc43(\ud835\udc38) denote the probability of \ud835\udc38. If \n \n\ud835\udc43(\ud835\udc48) = 1\n2 ,\n\ud835\udc43(\ud835\udc49) = 1\n10  ,\nand    \ud835\udc43(\ud835\udc4a) = 1\n12 , \n \nthen \ud835\udc43(\ud835\udc47) is equal to \n\n36 \n\n3 \n\n60 \n\n4 \n \n \n \nMathematics\nAnswer: C\nAnswer: A\nFinal Answer Key Paper 1\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n2/9",
+        "options": [
+            "13",
+            "1",
+            "19",
+            "1"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "Let \u211d denote the set of all real numbers. Define the function \ud835\udc53: \u211d\u2192\u211d by  \n \n\ud835\udc53(\ud835\udc65) = {2 \u22122\ud835\udc652 \u2212\ud835\udc652 sin1\n\ud835\udc65     if   \ud835\udc65\u22600,\n              2                        if   \ud835\udc65= 0 .\n \n \n \nThen which one of the following statements is TRUE? \n\n\n\n(\u2212\ud835\udeff, 0)",
+        "options": [
+            "The function \ud835\udc53 is NOT differentiable at \ud835\udc65= 0 ",
+            "There is a positive real number \ud835\udeff, such that \ud835\udc53 is a decreasing function on the interval (0, \ud835\udeff) ",
+            "For any positive real number \ud835\udeff, the function \ud835\udc53 is NOT an increasing function on the interval ",
+            "\ud835\udc65= 0 is a point of local minima of \ud835\udc53 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Consider the matrix \n\ud835\udc43= ( \n2\n0\n0\n0\n2\n0\n0\n0\n3\n) .  \n \nLet the transpose of a matrix \ud835\udc4b be denoted by \ud835\udc4b\ud835\udc47. Then the number of 3 \u00d7 3 invertible matrices \ud835\udc44 \nwith integer entries, such that \n \n\ud835\udc44\u22121 = \ud835\udc44\ud835\udc47   and   \ud835\udc43\ud835\udc44= \ud835\udc44\ud835\udc43 , \nis  \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnswer: C\nAnswer: C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n3/9\n SECTION 2 (Maximum Marks: 12) \n \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \noption(s) is(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks.",
+        "options": [
+            "32 ",
+            "8 ",
+            "16 ",
+            "24 ",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Let \ud835\udc3f1 be the line of intersection of the planes given by the equations \n \n2\ud835\udc65+ 3\ud835\udc66+ \ud835\udc67= 4   and  \ud835\udc65+ 2\ud835\udc66+ \ud835\udc67= 5 . \n \nLet \ud835\udc3f2 be the line passing through the point \ud835\udc43(2, \u22121, 3) and parallel to \ud835\udc3f1. Let \ud835\udc40 denote the plane \ngiven by the equation \n \n2\ud835\udc65+ \ud835\udc66\u22122\ud835\udc67= 6 . \n \nSuppose that the line \ud835\udc3f2 meets the plane \ud835\udc40 at the point \ud835\udc44.  Let \ud835\udc45 be the foot of the perpendicular \ndrawn from \ud835\udc43 to the plane \ud835\udc40 . \n  \nThen which of the following statements is (are) TRUE? \n\n\n\n3\n2 \u221a234 \n\n1\n2\u221a3 ) \n \n \n \nAnswer: A, C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n4/9",
+        "options": [
+            "The length of the line segment \ud835\udc43\ud835\udc44 is 9\u221a3 ",
+            "The length of the line segment \ud835\udc44\ud835\udc45 is 15 ",
+            "The area of  \u0394\ud835\udc43\ud835\udc44\ud835\udc45 is  ",
+            "The acute angle between the line segments \ud835\udc43\ud835\udc44 and \ud835\udc43\ud835\udc45 is  cos\u22121 ( "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Let \u2115 denote the set of all natural numbers, and \u2124 denote the set of all integers. Consider the \nfunctions \ud835\udc53: \u2115\u2192\u2124  and  \ud835\udc54: \u2124\u2192\u2115  defined by \n \n\ud835\udc53(\ud835\udc5b) = {\n(\ud835\udc5b+ 1)/2      if \ud835\udc5b is odd ,\n(4 \u2212\ud835\udc5b)/2      if \ud835\udc5b is even ,\n \nand \n \n\ud835\udc54(\ud835\udc5b) = {\n3 + 2\ud835\udc5b    if   \ud835\udc5b \u2265 0 ,\n\u22122\ud835\udc5b         if  \ud835\udc5b < 0 .\n  \n \nDefine (\ud835\udc54\u2218\ud835\udc53)(\ud835\udc5b) = \ud835\udc54(\ud835\udc53(\ud835\udc5b)) for all \ud835\udc5b\u2208\u2115, and (\ud835\udc53\u2218\ud835\udc54)(\ud835\udc5b) = \ud835\udc53(\ud835\udc54(\ud835\udc5b)) for all \ud835\udc5b\u2208\u2124. \n \nThen which of the following statements is (are) TRUE?",
+        "options": [
+            "\ud835\udc54\u2218\ud835\udc53 is NOT one-one and \ud835\udc54\u2218\ud835\udc53 is NOT onto ",
+            "\ud835\udc53\u2218\ud835\udc54 is NOT one-one but \ud835\udc53\u2218\ud835\udc54 is onto ",
+            "\ud835\udc54 is one-one and \ud835\udc54 is onto ",
+            "\ud835\udc53 is NOT one-one but \ud835\udc53 is onto  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "Let \u211d denote the set of all real numbers. Let \ud835\udc671 = 1 + 2\ud835\udc56 and \ud835\udc672 = 3\ud835\udc56 be two complex numbers, \nwhere \ud835\udc56= \u221a\u22121 . Let \n \n\ud835\udc46= {(\ud835\udc65, \ud835\udc66) \u2208\u211d\u00d7 \u211d\u2236 |\ud835\udc65+ \ud835\udc56\ud835\udc66\u2212\ud835\udc671| = 2|\ud835\udc65+ \ud835\udc56\ud835\udc66\u2212\ud835\udc672| }. \n \nThen which of the following statements is (are) TRUE? \n \n\n1\n3 ,\n10\n3 ) \n\n1\n3 ,\n8\n3) \n\n3  \n\n2\u221a2\n3  \n \n \n \n \n \n \n \n \n \n \nAnswer: A, D\nAnswer: A, D\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n5/9",
+        "options": [
+            "\ud835\udc46 is a circle with centre  (\u2212",
+            "\ud835\udc46 is a circle with centre  (",
+            "\ud835\udc46 is a circle with radius  \u221a2",
+            "\ud835\udc46 is a circle with radius  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "Let the set of all relations \ud835\udc45 on the set {\ud835\udc4e, \ud835\udc4f, \ud835\udc50, \ud835\udc51, \ud835\udc52, \ud835\udc53}, such that \ud835\udc45 is reflexive and symmetric, and \n\ud835\udc45 contains exactly 10 elements, be denoted by \ud835\udcae.  \n \nThen the number of elements in \ud835\udcae is _________________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "For any two points \ud835\udc40 and \ud835\udc41 in the \ud835\udc4b\ud835\udc4c-plane, let \ud835\udc40\ud835\udc41\n\u20d7\u20d7\u20d7\u20d7\u20d7\u20d7\u20d7  denote the vector from \ud835\udc40 to \ud835\udc41, and 0\u20d7  denote \nthe zero vector. Let \ud835\udc43, \ud835\udc44 and \ud835\udc45 be three distinct points in the \ud835\udc4b\ud835\udc4c-plane. Let \ud835\udc46 be a point inside the \ntriangle \u0394\ud835\udc43\ud835\udc44\ud835\udc45 such that  \n \n\ud835\udc46\ud835\udc43\n\u20d7\u20d7\u20d7\u20d7  + 5 \ud835\udc46\ud835\udc44\n\u20d7\u20d7\u20d7\u20d7\u20d7 + 6 \ud835\udc46\ud835\udc45\n\u20d7\u20d7\u20d7\u20d7\u20d7 = 0\u20d7 . \n \nLet \ud835\udc38 and \ud835\udc39 be the mid-points of the sides \ud835\udc43\ud835\udc45 and \ud835\udc44\ud835\udc45, respectively. Then the value of  \n \nlength of the line segment  \ud835\udc38\ud835\udc39\nlength of the line segment  \ud835\udc38\ud835\udc46 \n \nis _______________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Let \ud835\udc46 be the set of all seven-digit numbers that can be formed using the digits 0, 1 and 2. For \nexample, 2210222 is in \ud835\udc46, but 0210222 is NOT in \ud835\udc46.  \nThen the number of elements \ud835\udc65 in \ud835\udc46 such that at least one of the digits 0 and 1 appears exactly \ntwice in \ud835\udc65, is equal to ____________. \n \n \n \nSECTION 3 (Maximum Marks: 24) \n \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NUMERICAL VALUE. \n\u2022 \nFor each question, enter the correct numerical value of the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer.  \n\u2022 \nIf the numerical value has more than two decimal places, truncate/round-off the value to TWO \ndecimal places.  \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct numerical value is entered in the designated place; \n       Zero Marks        :   0      In all other cases. \n \nAnswer: 105\nAnswer: [1.15 to 1.25]\nAnswer: 762\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n6/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "Let \ud835\udefc and  \ud835\udefd be the real numbers such that \n \nlim\n\ud835\udc65\u21920 1\n\ud835\udc653 (\ud835\udefc\n2 \u222b\n1\n1 \u2212\ud835\udc612 \ud835\udc51\ud835\udc61+ \ud835\udefd\ud835\udc65cos \ud835\udc65 \n\ud835\udc65\n0\n) = 2 . \n \n \nThen the value of \ud835\udefc+ \ud835\udefd is __________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "Let \u211d denote the set of all real numbers. Let \ud835\udc53: \u211d\u2192\u211d  be a function such that \ud835\udc53(\ud835\udc65) > 0 for all  \n\ud835\udc65\u2208\u211d , and \ud835\udc53(\ud835\udc65+ \ud835\udc66) = \ud835\udc53(\ud835\udc65)\ud835\udc53(\ud835\udc66) for all \ud835\udc65, \ud835\udc66\u2208\u211d.  \n \nLet the real numbers \ud835\udc4e1, \ud835\udc4e2, \u2026 , \ud835\udc4e50 be in an arithmetic progression. If \ud835\udc53(\ud835\udc4e31) = 64\ud835\udc53(\ud835\udc4e25), and  \n \n\u2211\ud835\udc53(\ud835\udc4e\ud835\udc56) = 3(225 + 1)\n50\n\ud835\udc56=1\n , \nthen the value of \n\u2211\ud835\udc53(\ud835\udc4e\ud835\udc56)\n30\n\ud835\udc56=6\n \nis _________________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "For all \ud835\udc65> 0, let  \ud835\udc661(\ud835\udc65), \ud835\udc662(\ud835\udc65), and \ud835\udc663(\ud835\udc65) be the functions satisfying  \n \n\ud835\udc51\ud835\udc661\n\ud835\udc51\ud835\udc65\u2212(sin \ud835\udc65)2 \ud835\udc661 = 0,    \ud835\udc661(1) = 5 ,\n\ud835\udc51\ud835\udc662\n\ud835\udc51\ud835\udc65\u2212(cos \ud835\udc65)2 \ud835\udc662 = 0, \ud835\udc662(1) =\n1\n3 ,\n\ud835\udc51\ud835\udc663\n\ud835\udc51\ud835\udc65\u2212(\n2\u2212\ud835\udc653\n\ud835\udc653 ) \ud835\udc663 = 0,     \ud835\udc663(1) =\n3\n5\ud835\udc52 ,\n \n \nrespectively. Then \nlim\n\ud835\udc65\u21920+\n\ud835\udc661(\ud835\udc65)\ud835\udc662(\ud835\udc65)\ud835\udc663(\ud835\udc65) + 2\ud835\udc65\n\ud835\udc523\ud835\udc65sin\ud835\udc65\n  \n \nis equal to ______________. \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnswer: [2.35 to 2.45]\nAnswer: 96\nAnswer: 2\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n7/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "Consider the following frequency distribution:  \n \n    Value \n4 \n5 \n8 \n9 \n6 \n12 \n11 \n Frequency \n5 \n\ud835\udc531 \n\ud835\udc532 \n2 \n1 \n1 \n3 \n   \nSuppose that the sum of the frequencies is 19 and the median of this frequency distribution is 6. \n \nFor the given frequency distribution, let \ud835\udefc denote the mean deviation about the mean, \ud835\udefd denote \nthe mean deviation about the median, and \ud835\udf0e2 denote the variance. \n \nMatch each entry in List-I to the correct entry in List-II and choose the correct option. \n \n \n         List-I \n   List-II \n \n(P) 7\ud835\udc531 + 9\ud835\udc532 is equal to  \n \n(1) 146 \n(Q) 19\ud835\udefc  is equal to \n(2) 47 \n \n \n(R) 19\ud835\udefd  is equal to \n(3) 48 \n \n(S) 19\ud835\udf0e2 is equal to  \n(4) 145 \n \n(5) 55 \n \n \n \n\n\n\n\n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n \nAnswer: C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n8/9",
+        "options": [
+            "(P) \u27f6 (5)     (Q) \u27f6 (3)     (R) \u27f6 (2)     (S) \u27f6 (4)       ",
+            "(P) \u27f6 (5)     (Q) \u27f6 (2)     (R) \u27f6 (3)     (S) \u27f6 (1)       ",
+            "(P) \u27f6 (5)     (Q) \u27f6 (3)     (R) \u27f6 (2)     (S) \u27f6 (1)       ",
+            "(P) \u27f6 (3)     (Q) \u27f6 (2)     (R) \u27f6 (5)     (S) \u27f6 (4)       "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Let \u211d denote the set of all real numbers. For a real number \ud835\udc65, let [\ud835\udc65] denote the greatest integer \nless than or equal to \ud835\udc65. Let  \ud835\udc5b denote a natural number. \n \nMatch each entry in List-I to the correct entry in List-II and choose the correct option. \n \n                   List-I \n                   List-II  \n \n(P) The minimum value of \ud835\udc5b for which the        \n      function \n\ud835\udc53(\ud835\udc65) = [10\ud835\udc653 \u221245\ud835\udc652 + 60\ud835\udc65+ 35\n\ud835\udc5b\n] \n      is continuous on the interval [1, 2], is \n(1)    8 \n \n(Q) The minimum value of \ud835\udc5b for which \n\ud835\udc54(\ud835\udc65) = (2\ud835\udc5b2 \u221213\ud835\udc5b\u221215)(\ud835\udc653 + 3\ud835\udc65),  \n       \ud835\udc65\u2208\u211d, is an increasing function on \u211d, is \n   \n(2)    9  \n(R) The smallest natural number \ud835\udc5b which is    \n      greater than 5, such that \ud835\udc65= 3 is a point of    \n      local minima of \n\u210e(\ud835\udc65) = (\ud835\udc652 \u22129)\ud835\udc5b(\ud835\udc652 + 2\ud835\udc65+ 3), \n      is \n \n(3)    5 \n(S) Number of \ud835\udc650 \u2208\u211d such that  \n\ud835\udc59(\ud835\udc65) = \u2211(sin|\ud835\udc65\u2212\ud835\udc58| + cos |\ud835\udc65\u2212\ud835\udc58+ 1\n2|)\n4\n\ud835\udc58=0\n, \n(4)    6 \n    \ud835\udc65\u2208\u211d ,  is NOT differentiable at \ud835\udc650,  is  \n(5)  10 \n \n \n\n\n\n\n \n \nAnswer: B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n9/9",
+        "options": [
+            "(P) \u27f6 (1)     (Q) \u27f6 (3)     (R) \u27f6 (2)     (S) \u27f6 (5)       ",
+            "(P) \u27f6 (2)     (Q) \u27f6 (1)     (R) \u27f6 (4)     (S) \u27f6 (3)       ",
+            "(P) \u27f6 (5)     (Q) \u27f6 (1)     (R) \u27f6 (4)     (S) \u27f6 (3)       ",
+            "(P) \u27f6 (2)     (Q) \u27f6 (3)     (R) \u27f6 (1)     (S) \u27f6 (5)       "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "Let \ud835\udc64\u20d7\u20d7 = \ud835\udc56\u0302 + \ud835\udc57\u0302 \u22122\ud835\udc58\u0302, and \ud835\udc62\u20d7  and \ud835\udc63  be two vectors, such that \ud835\udc62\u20d7 \u00d7 \ud835\udc63 = \ud835\udc64\u20d7\u20d7  and \ud835\udc63 \u00d7 \ud835\udc64\u20d7\u20d7 = \ud835\udc62\u20d7 .  Let \n\ud835\udefc, \ud835\udefd, \ud835\udefe, and \ud835\udc61 be real numbers such that  \n \n\ud835\udc62\u20d7 = \ud835\udefc\ud835\udc56\u0302 + \ud835\udefd\ud835\udc57\u0302 + \ud835\udefe\ud835\udc58\u0302 ,   \u2212\ud835\udc61 \ud835\udefc+ \ud835\udefd+ \ud835\udefe= 0,    \ud835\udefc\u2212\ud835\udc61 \ud835\udefd+ \ud835\udefe= 0,    and \ud835\udefc+ \ud835\udefd\u2212\ud835\udc61 \ud835\udefe= 0.   \n \nMatch each entry in List-I to the correct entry in List-II and choose the correct option. \n \n       List-I \n   List-II \n \n(P) |\ud835\udc63 |2 is equal to  \n \n(1) 0 \n(Q) If \ud835\udefc= \u221a3 , then \ud835\udefe2 is equal to \n(2) 1 \n \n \n(R) If \ud835\udefc= \u221a3 , then (\ud835\udefd+ \ud835\udefe)2 is equal to \n(3) 2 \n \n(S) If \ud835\udefc= \u221a2 , then \ud835\udc61+ 3 is equal to \n(4) 3 \n \n \n(5) 5 \n \n \n \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \nEND OF THE QUESTION PAPER \nAnswer: A\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n1/13\n \n \n \nSECTION 1 (Maximum Marks: 12) \n \n\u2022 \nThis section contains FOUR (04) questions. \n\u2022 \nEach question has FOUR options \nanswer. \n\u2022 \nFor each question, choose the option corresponding to the correct answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks           :  +3 If ONLY the correct option is chosen; \n      Zero Marks \n:    0 If none of the options is chosen (i.e. the question is unanswered); \n      Negative Marks  :  \u22121   In all other cases. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPhysics\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n2/13",
+        "options": [
+            "(P) \u27f6 (2)     (Q) \u27f6 (1)     (R) \u27f6 (4)     (S) \u27f6 (5)       ",
+            "(P) \u27f6 (2)     (Q) \u27f6 (4)     (R) \u27f6 (3)     (S) \u27f6 (5)       ",
+            "(P) \u27f6 (2)     (Q) \u27f6 (1)     (R) \u27f6 (4)     (S) \u27f6 (3)       ",
+            "(P) \u27f6 (5)     (Q) \u27f6 (4)     (R) \u27f6 (1)     (S) \u27f6 (3)       ",
+            ", (B), (C) and (D). ONLY ONE of these four options is the correct "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "The center of a disk of radius \ud835\udc5f  and mass \ud835\udc5a is attached to a spring of spring constant \ud835\udc58, inside a ring \nof radius \ud835\udc45> \ud835\udc5f as shown in the figure. The other end of the spring is attached on the periphery of the \nring. Both the ring and the disk are in the same vertical plane. The disk can only roll along the inside \nperiphery of the ring, without slipping. The spring can only be stretched or compressed along the \nperiphery of the ring, following the Hooke\u2019s law. In equilibrium, the disk is at the bottom of the ring. \nAssuming small displacement of the disc, the time period of oscillation of center of mass of the disk \nis written as \ud835\udc47=\n2\ud835\udf0b\n\ud835\udf14. The correct expression for \ud835\udf14 is (\ud835\udc54 is the acceleration due to gravity): \n \n \n\n3 (\n\ud835\udc54\n\ud835\udc45\u2212\ud835\udc5f+ \ud835\udc58\n\ud835\udc5a)  \n\n2\ud835\udc54\n3(\ud835\udc45\u2212\ud835\udc5f) + \ud835\udc58\n\ud835\udc5a \n\n6 (\n\ud835\udc54\n\ud835\udc45\u2212\ud835\udc5f+ \ud835\udc58\n\ud835\udc5a)  \n\n4 (\n\ud835\udc54\n\ud835\udc45\u2212\ud835\udc5f+ \ud835\udc58\n\ud835\udc5a)",
+        "options": [
+            "\u221a2",
+            "\u221a",
+            "\u221a1",
+            "\u221a1"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "In a scattering experiment, a particle of mass 2\ud835\udc5a collides with another particle of mass \ud835\udc5a, which is \ninitially at rest. Assuming the collision to be perfectly elastic, the maximum angular deviation \ud835\udf03 of \nthe heavier particle, as shown in the figure, in radians is: \n \n\n\n2) \n\n3 \n\n6 \n \n \n \n \n \n \nAnswer: A\nAnswer: D\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n3/13",
+        "options": [
+            "\ud835\udf0b ",
+            "tan\u22121 (1",
+            "\ud835\udf0b",
+            "\ud835\udf0b"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "A conducting square loop initially lies in the \ud835\udc4b\ud835\udc4d plane with its lower edge hinged along the \ud835\udc4b-axis. \nOnly in the region \ud835\udc66\u22650, there is a time dependent magnetic field pointing along the \ud835\udc4d-direction, \n\ud835\udc35\u20d7 (\ud835\udc61) = \ud835\udc350(cos \ud835\udf14\ud835\udc61)\ud835\udc58\u0302, where \ud835\udc350 is a constant. The magnetic field is zero everywhere else. At time   \n\ud835\udc61= 0, the loop starts rotating with constant angular speed \ud835\udf14 about the \ud835\udc4b axis in the clockwise \ndirection as viewed from the +\ud835\udc4b axis (as shown in the figure). Ignoring self-inductance of the loop \nand gravity, which of the following plots correctly represents the induced e.m.f. (\ud835\udc49) in the loop as a \nfunction of time:",
+        "options": [
+            "(B) ",
+            "(D) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Figure 1 shows the configuration of main scale and Vernier scale before measurement. Fig. 2 shows \nthe configuration corresponding to the measurement of diameter \ud835\udc37 of a tube. The measured value of \n\ud835\udc37 is: \n \n\n\n\n\n \n \nAnswer: A\nAnswer: C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n4/13\n \n \n \nSECTION 2 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \noption(s) is(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks. \n \n \n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n5/13",
+        "options": [
+            "0.12 cm ",
+            "0.11 cm ",
+            "0.13 cm ",
+            "0.14 cm ",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "A conducting square loop of side \ud835\udc3f, mass \ud835\udc40 and resistance \ud835\udc45 is moving in the \ud835\udc4b\ud835\udc4c plane with its edges \nparallel to the \ud835\udc4b and \ud835\udc4c axes. The region \ud835\udc66\u22650 has a uniform magnetic field, \ud835\udc35\u20d7 = \ud835\udc350\ud835\udc58\u0302. The magnetic \nfield is zero everywhere else. At time  \ud835\udc61= 0, the loop starts to enter the magnetic field with an initial \nvelocity \ud835\udc630\ud835\udc57\u0302 m/s, as shown in the figure. Considering the quantity \ud835\udc3e=\n\ud835\udc3502\ud835\udc3f2\n\ud835\udc45\ud835\udc40 in appropriate units, \nignoring self-inductance of the loop and gravity, which of the following statements is/are correct: \n \n\nfield. \n\nis zero. \n\n\ud835\udc3e\ud835\udc3f\n10, the loop comes to rest at \ud835\udc61= (\n1\n\ud835\udc3e) ln (\n5\n2). \n\n\ud835\udc61= (\n1\n\ud835\udc3e) ln (\n3\n2).",
+        "options": [
+            "If \ud835\udc630 = 1.5\ud835\udc3e\ud835\udc3f, the loop will stop before it enters completely inside the region of magnetic ",
+            "When the complete loop is inside the region of magnetic field, the net force acting on the loop ",
+            "If \ud835\udc630 =",
+            "If \ud835\udc630 = 3\ud835\udc3e\ud835\udc3f, the complete loop enters inside the region of magnetic field at time  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Length, breadth and thickness of a strip having a uniform cross section are measured to be 10.5 cm, \n0.05 mm, and 6.0 \ud835\udf07m, respectively. Which of the following option(s) give(s) the volume of the strip \nin cm3 with correct significant figures: \n\n\n\n\n \nAnswer: B, D\nAnswer: D\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n6/13",
+        "options": [
+            "3.2 \u00d7 10\u22125 ",
+            "32.0 \u00d7 10\u22126 ",
+            "3.0 \u00d7 10\u22125 ",
+            "3 \u00d7 10\u22125 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "Consider a system of three connected strings, \ud835\udc461, \ud835\udc462  and \ud835\udc463 with uniform linear mass densities \ud835\udf07 \nkg/m, 4\ud835\udf07 kg/m and 16\ud835\udf07 kg/m, respectively, as shown in the figure. \ud835\udc461 and \ud835\udc462 are connected at the \npoint \ud835\udc43, whereas \ud835\udc462 and \ud835\udc463 are connected at the point \ud835\udc44, and the other end of \ud835\udc463 is connected to a \nwall. A wave generator O is connected to the free end of \ud835\udc461. The wave from the generator is \nrepresented by \ud835\udc66= \ud835\udc660 cos(\ud835\udf14\ud835\udc61\u2212\ud835\udc58\ud835\udc65) cm, where \ud835\udc660, \ud835\udf14 and \ud835\udc58 are constants of appropriate dimensions. \nWhich of the following statements is/are correct: \n \n \n\n\ud835\udc66= \ud835\udefc1y0 cos(\ud835\udf14\ud835\udc61+ \ud835\udc58\ud835\udc65+ \ud835\udf0b) cm, where \ud835\udefc1 is a positive constant. \n\n\ud835\udc66= \ud835\udefc2y0 cos(\ud835\udf14\ud835\udc61\u2212\ud835\udc58\ud835\udc65) cm, where \ud835\udefc2 is a positive constant. \n\n\ud835\udc66= \ud835\udefc3y0 cos(\ud835\udf14\ud835\udc61\u2212\ud835\udc58\ud835\udc65+ \ud835\udf0b) cm, where \ud835\udefc3 is a positive constant. \n\n\ud835\udc66= \ud835\udefc4y0 cos(\ud835\udf14\ud835\udc61\u22124\ud835\udc58\ud835\udc65) cm, where \ud835\udefc4 is a positive constant. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnswer: A, D\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n7/13",
+        "options": [
+            "When the wave reflects from \ud835\udc43 for the first time, the reflected wave is represented by  ",
+            "When the wave transmits through \ud835\udc43 for the first time, the transmitted wave is represented by  ",
+            "When the wave reflects from \ud835\udc44 for the first time, the reflected wave is represented by  ",
+            "When the wave transmits through \ud835\udc44 for the first time, the transmitted wave is represented by  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "A person sitting inside an elevator performs a weighing experiment with an object of mass 50 kg. \nSuppose that the variation of the height \ud835\udc66 (in m) of the elevator, from the ground, with time \ud835\udc61 (in s) \nis given by \ud835\udc66= 8 [1 + sin(\n2\ud835\udf0b\ud835\udc61\n\ud835\udc47)], where \ud835\udc47= 40\ud835\udf0b s. Taking acceleration due to gravity, \ud835\udc54=  10 \nm/s2, the maximum variation of the object\u2019s weight (in N) as observed in the experiment is ____",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "A cube of unit volume contains 35 \u00d7 107 photons of frequency 1015 Hz. If the energy of all the \nphotons is viewed as the average energy being contained in the electromagnetic waves within the \nsame volume, then the amplitude of the magnetic field is \ud835\udefc\u00d7 10\u22129 T. Taking permeability of free \nspace \ud835\udf070 = 4\ud835\udf0b\u00d7 10\u22127 Tm/A, Planck\u2019s constant \u210e= 6 \u00d7 10\u221234Js and \ud835\udf0b=\n22\n7 , the value of \ud835\udefc is____ \n   \n \n \n \n \n SECTION 3 (Maximum Marks: 24) \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NUMERICAL VALUE. \n\u2022 \nFor each question, enter the correct numerical value of the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer.  \n\u2022 \nIf the numerical value has more than two decimal places, truncate/round-off the value to TWO \ndecimal places.  \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct numerical value is entered in the designated place; \n       Zero Marks        :   0      In all other cases. \n \nAnswer: 2\nAnswer: [21 to 25]\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n8/13",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Two identical plates P and Q, radiating as perfect black bodies, are kept in vacuum at constant \nabsolute temperatures TP and TQ, respectively, with TQ < TP, as shown in Fig. 1. The radiated power \ntransferred per unit area from P to Q is \ud835\udc4a0. Subsequently, two more plates, identical to P and Q, are \nintroduced between P and Q, as shown in Fig. 2. Assume that heat transfer takes place only between \nadjacent plates. If the power transferred per unit area in the direction from P to Q (Fig. 2) in the \nsteady state is \ud835\udc4a\ud835\udc46, then the ratio \n\ud835\udc4a0\n\ud835\udc4a\ud835\udc46 is ___",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "A solid glass sphere of refractive index \ud835\udc5b= \u221a3 and radius \ud835\udc45 contains a spherical air cavity of radius \n\ud835\udc45\n2, as shown in the figure. A very thin glass layer is present at the point O so that the air cavity \n(refractive index \ud835\udc5b= 1) remains inside the glass sphere. An unpolarized, unidirectional and \nmonochromatic light source \ud835\udc46 emits a light ray from a point inside the glass sphere towards the \nperiphery of the glass sphere. If the light is reflected from the point O and is fully polarized, then the \nangle of incidence at the inner surface of the glass sphere is \ud835\udf03. The value of sin \ud835\udf03 is ____  \n \n \n \n \n \n \nAnswer: 3\nAnswer: 0.5 OR 0.75\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n9/13",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "A single slit diffraction experiment is performed to determine the slit width using the equation, \n\ud835\udc4f\ud835\udc51\n\ud835\udc37=\n\ud835\udc5a\u03bb, where \ud835\udc4f is the slit width, \ud835\udc37 the shortest distance between the slit and the screen, \ud835\udc51 the distance \nbetween the \ud835\udc5ath diffraction maximum and the central maximum, and \u03bb is the wavelength. \ud835\udc37 and \ud835\udc51 \nare measured with scales of least count of 1 cm and 1 mm, respectively. The values of \u03bb and \ud835\udc5a are \nknown precisely to be 600 nm and 3, respectively. The absolute error (in \ud835\udf07m) in the value of \ud835\udc4f \nestimated using the diffraction maximum that occurs for \ud835\udc5a= 3 with \ud835\udc51=  5 mm and \ud835\udc37= 1 m is ___",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Consider an electron in the \ud835\udc5b= 3 orbit of a hydrogen-like atom with atomic number \ud835\udc4d. At absolute \ntemperature \ud835\udc47, a neutron having thermal energy \ud835\udc58B\ud835\udc47 has the same de Broglie wavelength as that of \nthis electron. If this temperature is given by \ud835\udc47=\n\ud835\udc4d2\u210e2\n\ud835\udefc\ud835\udf0b2\ud835\udc4e02\ud835\udc5aN\ud835\udc58B , (where \u210e is the Planck\u2019s constant, \ud835\udc58\ud835\udc35 \nis the Boltzmann constant, \ud835\udc5aN is the mass of the neutron and \ud835\udc4e0 is the first Bohr radius of hydrogen \natom) then the value of \ud835\udefc is ___ \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnswer: [75 to 79] OR [94 to 95]\nAnswer: 72\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n10/13\n \n \n \n \n \n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n \n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n11/13",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "List-I shows four configurations, each consisting of a pair of ideal electric dipoles. Each dipole has \na dipole moment of magnitude \ud835\udc5d, oriented as marked by arrows in the figures. In all the \nconfigurations the dipoles are fixed such that they are at a distance 2\ud835\udc5f apart along the \ud835\udc65 direction. \nThe midpoint of the line joining the two dipoles is \ud835\udc4b. The possible resultant electric fields \ud835\udc38\u20d7  at \ud835\udc4b \nare given in List-II. \n \nChoose the option that describes the correct match between the entries in List-I to those in List-II. \n \nList-I \nList-II \n \n(P)  \n  \n(1)  \ud835\udc38\u20d7 =  0 \n(Q)  \n(2)  \ud835\udc38\u20d7 = \u2212\n\ud835\udc5d\n2\ud835\udf0b\ud835\udf160\ud835\udc5f3 \ud835\udc57\u0302  \n(R)  \n(3) \ud835\udc38\u20d7 = \u2212\n\ud835\udc5d\n4\ud835\udf0b\ud835\udf160\ud835\udc5f3 (\ud835\udc56\u0302 \u2212\ud835\udc57\u0302) \n(S)  \n(4) \ud835\udc38\u20d7 =\n\ud835\udc5d\n4\ud835\udf0b\ud835\udf160\ud835\udc5f3 (2\ud835\udc56\u0302 \u2212\ud835\udc57\u0302) \n \n(5) \ud835\udc38\u20d7 =\n\ud835\udc5d\n\ud835\udf0b\ud835\udf160\ud835\udc5f3 \ud835\udc56\u0302 \n \n \n \n\n\n\n\n \n \n \n \nAnswer: C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n12/13",
+        "options": [
+            "P\u21923, Q\u21921, R\u21922, S\u21924 ",
+            "P\u21924, Q\u21925, R\u21923, S\u21921 ",
+            "P\u21922, Q\u21921, R\u21924, S\u21925  ",
+            "P\u21922, Q\u21921, R\u21923, S\u21925 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "A circuit with an electrical load having impedance \ud835\udc4d is connected with an AC source as shown in \nthe diagram. The source voltage varies in time as \ud835\udc49(\ud835\udc61) = 300 sin(400\ud835\udc61) V, where \ud835\udc61 is time in s. \nList-I shows various options for the load.  The possible currents \ud835\udc56(\ud835\udc61) in the circuit as a function of \ntime are given in List-II. \n \n \nChoose the option that describes the correct match between the entries in List-I to those in List-\nII. \n \n \nList-I \nList-II \n \n(P)      \n \n \n(1)  \n(Q)    \n \n \n(2)  \n(R)  \n \n \n(3)  \n(S)  \n(4)  \n \n(5)  \n \n \n \n\n\n\n\nAnswer: A\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n13/13",
+        "options": [
+            "P\u21923, Q\u21925, R\u21922, S\u21921 ",
+            "P\u21921, Q\u21925, R\u21922, S\u21923 ",
+            "P\u21923, Q\u21924, R\u21922, S\u21921 ",
+            "P\u21921, Q\u21924, R\u21922, S\u21925 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "List-I shows various functional dependencies of energy (\ud835\udc38) on the atomic number (\ud835\udc4d). Energies \nassociated with certain phenomena are given in List-II. \n \nChoose the option that describes the correct match between the entries in List-I to those in List-\nII. \n \n \nList-I \nList-II \n \n(P) \ud835\udc38\u221d\ud835\udc4d2 \n(1) energy of characteristic x-rays \n \n \n(Q) \ud835\udc38\u221d(\ud835\udc4d\u22121)2 \n(2) electrostatic part of the nuclear binding \nenergy for stable nuclei with mass numbers in \nthe range 30 to 170 \n \n \n(R) \ud835\udc38\u221d\ud835\udc4d(\ud835\udc4d\u22121) \n(3) energy of continuous x-rays \n \n(S) \ud835\udc38 is practically independent of \ud835\udc4d \n(4) average nuclear binding energy per nucleon \nfor stable nuclei with mass number in the range \n30 to 170 \n \n \n(5) energy of radiation due to electronic \ntransitions from hydrogen-like atoms \n \n \n \n\n\n\n\n \n \n \n \nEND OF THE QUESTION PAPER \nAnswer: C\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n1/9\n \nSECTION 1 (Maximum Marks: 12) \n \n\u2022 \nThis section contains FOUR (04) questions. \n\u2022 \nEach question has FOUR options \nanswer. \n\u2022 \nFor each question, choose the option corresponding to the correct answer. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks           :  +3 If ONLY the correct option is chosen; \n      Zero Marks \n:    0 If none of the options is chosen (i.e. the question is unanswered); \n      Negative Marks  :  \u22121   In all other cases.",
+        "options": [
+            "P\u21924, Q\u21923, R\u21921, S\u21922 ",
+            "P\u21925, Q\u21922, R\u21921, S\u21924 ",
+            "P\u21925, Q\u21921, R\u21922, S\u21924 ",
+            "P\u21923, Q\u21922, R\u21921, S\u21925 ",
+            ", (B), (C) and (D). ONLY ONE of these four options is the correct "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "The heating of NH4NO2 at 60\u221270 \uf0b0C and NH4NO3 at 200\u2212250 \uf0b0C is associated with the formation \nof nitrogen containing compounds X and Y, respectively. X and Y, respectively, are",
+        "options": [
+            "N2 and N2O  ",
+            "NH3 and NO2 ",
+            "NO and N2O ",
+            "N2 and NH3 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "The correct order of the wavelength maxima of the absorption band in the ultraviolet-visible region \nfor the given complexes is",
+        "options": [
+            "[Co(CN)6]3\u2212 < [Co(NH3)6]3+ < [Co(NH3)5(H2O)]3+ < [Co(NH3)5(Cl)]2+ ",
+            "[Co(NH3)5(Cl)]2+ < [Co(NH3)5(H2O)]3+ < [Co(NH3)6]3+ < [Co(CN)6]3\u2212 ",
+            "[Co(CN)6]3\u2212 < [Co(NH3)5(Cl)]2+ < [Co(NH3)5(H2O)]3+ < [Co(NH3)6]3+ ",
+            "[Co(NH3)6]3+ < [Co(CN)6]3\u2212 < [Co(NH3)5(Cl)]2+ < [Co(NH3)5(H2O)]3+ "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "One of the products formed from the reaction of permanganate ion with iodide ion in neutral \naqueous medium is \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \nChemistry\nAnswer: A\nAnswer: A\nAnswer: B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n2/9",
+        "options": [
+            "I2 ",
+            "IO3\u2212 ",
+            "IO4\u2212 ",
+            "IO2\u2212 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Consider the depicted hydrogen (H) in the hydrocarbons given below. The most acidic hydrogen \n(H) is \n\n \n\n \n\n \n\n \nAnswer: B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n3/9\n SECTION 2 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) questions.  \n\u2022 \nEach question has FOUR options \noption(s) is(are) correct answer(s). \n\u2022 \nFor each question, choose the option(s) corresponding to (all) the correct answer(s). \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if (all) the correct option(s) is(are) chosen; \nPartial Marks     :   +3  If all the four options are correct but ONLY three options are chosen; \nPartial Marks     :   +2  If three or more options are correct but ONLY two options are chosen, both of \nwhich are correct; \nPartial Marks     :    +1  If two or more options are correct but ONLY one option is chosen and it is a \ncorrect option; \nZero Marks \n:      0 If none of the options is chosen (i.e. the question is unanswered); \nNegative Marks :   \u22122 In all other cases. \n\u2022 \nFor example, in a question, if \nanswers, then  \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing ONLY \nchoosing no option (i.e. the question is unanswered) will get 0 marks; and  \n       choosing any other combination of options will get \u22122 marks.",
+        "options": [
+            "H",
+            "H",
+            "H",
+            "H",
+            ", (B), (C) and (D). ONE OR MORE THAN ONE of these four ",
+            ", (B) and (D) are the ONLY three options corresponding to correct ",
+            ", (B) and (D) will get +4 marks;  ",
+            "and (B) will get +2 marks;  ",
+            "and (D) will get +2 marks; ",
+            "and (D) will get +2 marks; ",
+            "will get +1 mark; ",
+            "will get +1 mark; ",
+            "will get +1 mark;  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Regarding the molecular orbital (MO) energy levels for homonuclear diatomic molecules, the \nINCORRECT statement(s) is(are) \n\n\n\n+ is smaller than the bond energy of O2.",
+        "options": [
+            "Bond order of Ne2 is zero. ",
+            "The highest occupied molecular orbital (HOMO) of F2 is \u03c3-type. ",
+            "Bond energy of O2",
+            "Bond length of Li2 is larger than the bond length of B2. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "The pair(s) of diamagnetic ions is(are) \n\n\n\n\n \n \n \nAnswer: B, C\nAnswer: A, B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n4/9",
+        "options": [
+            "La3+, Ce4+ ",
+            "Yb2+, Lu3+ ",
+            "La2+, Ce3+ ",
+            "Yb3+, Lu2+ "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "For the reaction sequence given below, the correct statement(s) is(are) \n \nP\nQ\nHBr\nFinkelstein reaction\nSwarts reaction\nR\n \n \n(In the options, X is any atom other than carbon and hydrogen, and it is different in P, Q and R) \n\n\n\n\nR > Q > P. \n \n \n \n \n \n \n \nAnswer: B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n5/9",
+        "options": [
+            "C\u2212X bond length in P, Q and R follows the order Q > R > P.   ",
+            "C\u2212X bond enthalpy in P, Q and R follows the order R > P > Q.  ",
+            "Relative reactivity toward SN2 reaction in P, Q and R follows the order P > R > Q. ",
+            "pKa value of the conjugate acids of the leaving groups in P, Q and R follows the order  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "In an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to Cr3+. The current \n(in amperes) that flows through the cell for 48.25 minutes to produce 1 mole of Cr3+ is ______. \n \nUse: 1 Faraday = 96500 C mol\u22121",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "At 25 \u2103, the concentration of H+ ions in 1.00 \u00d7 10\u22123 M aqueous solution of a weak monobasic acid \nhaving acid dissociation constant (Ka) of 4.00 \u00d7 10\u221211 is \ud835\udc7f\u00d7 10\u22127 M. The value of \ud835\udc7f is ______. \n \nUse: Ionic product of water (Kw) = 1.00 \u00d7 10\u221214 at 25 \u2103",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Molar volume (Vm) of a van der Waals gas can be calculated by expressing the van der Waals equation \nas a cubic equation with Vm as the variable. The ratio (in mol dm\u22123) of the coefficient of \ud835\udc49m2 to the \ncoefficient of Vm for a gas having van der Waals constants a = 6.0 dm6 atm mol\u22122 and b = 0.060 \ndm3 mol\u22121 at 300 K and 300 atm is ______. \n \nUse: Universal gas constant (R) = 0.082 dm3 atm mol\u22121 K\u22121",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "Considering ideal gas behavior, the expansion work done (in kJ) when 144 g of water is electrolyzed \ncompletely under constant pressure at 300 K is ______.  \n \nUse: Universal gas constant (R) = 8.3 J K\u22121 mol\u22121; Atomic mass (in amu): H = 1, O = 16",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "The monomer (X) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If 10 \nmoles of X are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is \n______. \n \nUse: Atomic mass of N (in amu) = 14 \n \n SECTION 3 (Maximum Marks: 24) \n \n\u2022 \nThis section contains SIX (06) questions. \n\u2022 \nThe answer to each question is a NUMERICAL VALUE. \n\u2022 \nFor each question, enter the correct numerical value of the answer using the mouse and the on-\nscreen virtual numeric keypad in the place designated to enter the answer.  \n\u2022 \nIf the numerical value has more than two decimal places, truncate/round-off the value to TWO \ndecimal places.  \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 If ONLY the correct numerical value is entered in the designated place; \n       Zero Marks        :   0      In all other cases. \n \nAnswer: 100\nAnswer: [2.2 to 2.3]\nAnswer: [-7.2 to -7]\nAnswer: [-29.95 to -29.8] OR [29.8 to 29.95]\nAnswer: 280\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n6/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "The reaction sequence given below is carried out with 16 moles of X. The yield of the major \nproduct in each step is given below the product in parentheses. The amount (in grams) of S \nproduced is______. \n \n \n \nUse: Atomic mass (in amu): H = 1, C = 12, O = 16, Br = 80 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAnswer: 175\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n7/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "The correct match of the group reagents in List-I for precipitating the metal ion given in List-II \nfrom solutions, is \n \n \nList-I \nList-II \n \n(P) Passing H2S in the presence of NH4OH \n(1) Cu2+ \n(Q) (NH4)2CO3 in the presence of NH4OH \n(2) Al3+ \n(R) NH4OH in the presence of NH4Cl \n(3) Mn2+ \n(S) Passing H2S in the presence of dilute HCl \n(4) Ba2+ \n \n(5) Mg2+ \n \n \n \n\n\n\n\n \n \n \nSECTION 4 (Maximum Marks: 12) \n \n\u2022 \nThis section contains THREE (03) Matching List Sets. \n\u2022 \nEach set has ONE Multiple Choice Question. \n\u2022 \nEach set has TWO lists: List-I and List-II. \n\u2022 \nList-I has Four entries (P), (Q), (R) and (S) and List-II has Five entries (1), (2), (3), (4) and (5). \n\u2022 \nFOUR options are given in each Multiple Choice Question based on List-I and List-II and ONLY ONE of \nthese four options satisfies the condition asked in the Multiple Choice Question. \n\u2022 \nAnswer to each question will be evaluated according to the following marking scheme: \nFull Marks \n:  +4 ONLY if the option corresponding to the correct combination is chosen; \nZero Marks \n:     0   If none of the options is chosen (i.e. the question is unanswered);  \nNegative Marks :   \u22121  In all other cases. \n \nAnswer: A\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n8/9",
+        "options": [
+            "P \u2192 3; Q \u2192 4; R \u2192 2; S \u2192 1 ",
+            "P \u2192 4; Q \u2192 2; R \u2192 3; S \u2192 1 ",
+            "P \u2192 3; Q \u2192 4; R \u2192 1; S \u2192 5 ",
+            "P \u2192 5; Q \u2192 3; R \u2192 2; S \u2192 4 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "The major products obtained from the reactions in List-II are the reactants for the named reactions \nmentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the \ncorrect option.  \n \n \nList-I \nList-II \n \n(P) Stephen reaction \n(1)  \n(i) CrO2Cl2/CS2  \n(ii) H3O+\nToluene\n \n \n(Q) Sandmeyer reaction \n(2)  \nBenzoic acid\n(i) PCl5  \n(ii) NH3\n(iii) P4O10, \uf044\n \n \n(R) Hoffmann bromamide degradation reaction \n(3)  \n \n \n \n(S) Cannizzaro reaction \n(4)  \n \n \n \n \n(5) \n(i) (CH3CO)2O, Pyridine\n(ii) HNO3, H2SO4, 288 K\n(iii) aq. NaOH\nAniline\n \n \n \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \nAnswer: B\n\nJEE (Advanced) 2025 \n \n                               Paper 1 \n \n9/9",
+        "options": [
+            "P \u2192 2; Q \u2192 4; R \u2192 1; S \u2192 3 ",
+            "P \u2192 2; Q \u2192 3; R \u2192 4; S \u2192 1 ",
+            "P \u2192 5; Q \u2192 3; R \u2192 4; S \u2192 2 ",
+            "P \u2192 5; Q \u2192 4; R \u2192 2; S \u2192 1 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "Match the compounds in List-I with the appropriate observations in List-II and choose the correct \noption.  \n \n \nList-I \nList-II \n \n(P)   \nH\nN\nNH2\nO\nOMe\nO\nHO\n \n \n \n(1) Reaction with phenyl diazonium salt gives \nyellow dye.  \n(Q) \n \nH\nN\nNH\nO\nOMe\nO\nO\n  \n \n \n \n(2) Reaction with ninhydrin gives purple color \nand it also reacts with FeCl3 to give violet \ncolor. \n(R)  \nNH3+Cl\u2212\n \n \n \n \n(3) Reaction with glucose will give \ncorresponding hydrazone. \n(S) \n \n \n(4) Lassiagne extract of the compound treated \nwith dilute HCl followed by addition of \naqueous FeCl3 gives blood red color. \n \n \n \n \n(5) After complete hydrolysis, it will give \nninhydrin test and it DOES NOT give positive \nphthalein dye test. \n \n \n \n \n\n\n\n\n \nEND OF THE QUESTION PAPER \nAnswer: B",
+        "options": [
+            "P \u2192 1;  Q \u2192 5;  R \u2192 4; S \u2192 2 ",
+            "P \u2192 2;  Q \u2192 5;  R \u2192 1; S \u2192 3 ",
+            "P \u2192 5;  Q \u2192 2;  R \u2192 1; S \u2192 4 ",
+            "P \u2192 2;  Q \u2192 1;  R \u2192 5; S \u2192 3 "
+        ],
+        "images": [],
+        "image_options": []
+    }
+]

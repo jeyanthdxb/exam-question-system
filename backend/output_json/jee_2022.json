@@ -1,0 +1,498 @@
+[
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "Considering only the principal values of the inverse trigonometric functions, the value of  \n\u00a0\n3\n2 cos\u22121 \u221a\n2\n2 + \u03c02  + 1\n4 sin\u22121 2\u221a2 \u03c0\n2 + \u03c02 +  tan\u22121 \u221a2\n\u03c0  \n \nis  __________ .",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "Let \ud835\udefc be a positive real number. Let \ud835\udc53: \u211d\u2192\u211d  and \ud835\udc54: (\ud835\udefc, \u221e) \u2192\u211d  be the functions defined by \n \n\ud835\udc53(\ud835\udc65) = sin(\ud835\udf0b\ud835\udc65\n12)           and          \ud835\udc54(\ud835\udc65) = 2  loge  ( \u221a\ud835\udc65\u2212\u221a\ud835\udefc )\n loge  ( \ud835\udc52\u221a\ud835\udc65\u2212\ud835\udc52\u221a\ud835\udefc )\n . \n \n Then the value of  lim\n\ud835\udc65\u2192\ud835\udefc+ \ud835\udc53(\ud835\udc54(\ud835\udc65))  is __________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "In a study about a pandemic, data of 900 persons was collected. It was found that \n \n      190 persons had symptom of fever, \n220 persons had symptom of cough, \n220 persons had symptom of breathing problem, \n330 persons had symptom of fever or cough or both, \n350 persons had symptom of cough or breathing problem or both, \n340 persons had symptom of fever or breathing problem or both, \n30 persons had all three symptoms (fever, cough and breathing problem). \n \nIf a person is chosen randomly from these 900 persons, then the probability that the person has at \nmost one symptom is   _____________. \nMathematics\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n2/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "Let \ud835\udc67 be a complex number with non-zero imaginary part. If  \n \n2 + 3\ud835\udc67+ 4\ud835\udc672\n2 \u22123\ud835\udc67+ 4\ud835\udc672  \n \n is a real number, then the value of   |\ud835\udc67|2 is    _____________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Let \ud835\udc67\u0305 denote the complex conjugate of a complex number \ud835\udc67 and let \ud835\udc56= \u221a\u22121 . In the set of complex \nnumbers, the number of distinct roots of the equation  \n \n\ud835\udc67\u0305 \u2212\ud835\udc672 = \ud835\udc56(\ud835\udc67\u0305 + \ud835\udc672) \n \nis  _____________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Let \ud835\udc591, \ud835\udc592, \u2026 , \ud835\udc59100 be consecutive terms of an arithmetic progression with common difference \ud835\udc511, and \nlet \ud835\udc641, \ud835\udc642, \u2026 , \ud835\udc64100 be consecutive terms of another arithmetic progression with common difference \n\ud835\udc512 , where \ud835\udc511\ud835\udc512 = 10. For each \ud835\udc56= 1, 2, \u2026 , 100, let \ud835\udc45\ud835\udc56 be a rectangle with length \ud835\udc59\ud835\udc56, width \ud835\udc64\ud835\udc56 and \narea \ud835\udc34\ud835\udc56. If \ud835\udc3451 \u2212\ud835\udc3450 = 1000, then the value of  \ud835\udc34100 \u2212\ud835\udc3490 is  ____________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "The number of 4-digit integers in the closed interval [2022, 4482] formed by using the digits \n0, 2, 3, 4, 6, 7  is ____________.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "Let \ud835\udc34\ud835\udc35\ud835\udc36 be the triangle with \ud835\udc34\ud835\udc35= 1, \ud835\udc34\ud835\udc36= 3 and \u2220\ud835\udc35\ud835\udc34\ud835\udc36=\n\u03c0\n2.  If a circle of radius \ud835\udc5f> 0 touches \nthe sides \ud835\udc34\ud835\udc35, \ud835\udc34\ud835\udc36 and also touches internally the circumcircle of the triangle \ud835\udc34\ud835\udc35\ud835\udc36, then the value   \nof  \ud835\udc5f is  _____________. \n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n4/9",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "Let \ud835\udc4e1, \ud835\udc4e2, \ud835\udc4e3, \u2026  be an arithmetic progression with \ud835\udc4e1 = 7 and common difference 8.  Let \n\ud835\udc471, \ud835\udc472, \ud835\udc473, \u2026  be such that \ud835\udc471 = 3  and  \ud835\udc47\ud835\udc5b+1 \u2212\ud835\udc47\ud835\udc5b= \ud835\udc4e\ud835\udc5b for \ud835\udc5b\u22651. Then, which of the following is/are \nTRUE ? \n \n \n\n\n\ud835\udc47\ud835\udc58= 10510\n20\n\ud835\udc58=1\n \n\n\n\ud835\udc47\ud835\udc58=\n30\n\ud835\udc58=1\n 35610",
+        "options": [
+            "\ud835\udc4720 = 1604 ",
+            "\u2211",
+            "\ud835\udc4730 = 3454 ",
+            "\u2211"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "Let \ud835\udc431 and \ud835\udc432 be two planes given by  \n \n  \ud835\udc431:   10\ud835\udc65+ 15\ud835\udc66+ 12\ud835\udc67\u221260 = 0 ,   \n \ud835\udc432 :    \u22122\ud835\udc65+ 5\ud835\udc66+ 4\ud835\udc67\u221220 = 0  . \n \nWhich of the following straight lines can be an edge of some tetrahedron whose two faces lie on \ud835\udc431 \nand \ud835\udc432 ? \n \n \n \n \n\n0 = \n\ud835\udc66\u22121 \n0\n=\n\ud835\udc67\u22121\n5    \n\n\u22125 =\n\ud835\udc66\n2 =\n\ud835\udc67\n3 \u00a0 \n\n\u22122 =\n\ud835\udc66\u22124\n5 =\n\ud835\udc67\n4\u00a0 \n\n1 =\n\ud835\udc66\u22124\n\u22122 =\n\ud835\udc67\n3",
+        "options": [
+            "\ud835\udc65\u22121",
+            "\ud835\udc65\u22126",
+            "\ud835\udc65",
+            "\ud835\udc65"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "Let \ud835\udc46 be the reflection of a point \ud835\udc44 with respect to the plane given by \n \n \ud835\udc5f\u20d7= \u2212(\ud835\udc61+ \ud835\udc5d)\ud835\udc56\u0302 + \ud835\udc61\ud835\udc57\u0302 + (1 + \ud835\udc5d)\ud835\udc58\u0302 \n \nwhere \ud835\udc61, \ud835\udc5d are real parameters and \ud835\udc56\u0302, \ud835\udc57\u0302, \ud835\udc58\u0302 are the unit vectors along the three positive coordinate \naxes. If the position vectors of \ud835\udc44 and \ud835\udc46 are 10\ud835\udc56\u0302 + 15\ud835\udc57\u0302 + 20\ud835\udc58\u0302  and  \ud835\udefc\ud835\udc56\u0302 + \ud835\udefd\ud835\udc57\u0302 + \ud835\udefe\ud835\udc58\u0302  respectively, then \nwhich of the following is/are TRUE ? \n \n \n \n \n\n\n\n\n \n \n \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n5/9",
+        "options": [
+            "3(\ud835\udefc+ \ud835\udefd) = \u2212101 ",
+            "3(\ud835\udefd+ \ud835\udefe) = \u221271 ",
+            "3(\ud835\udefe+ \ud835\udefc) = \u221286 ",
+            "3(\ud835\udefc+ \ud835\udefd+ \ud835\udefe) = \u2212121 "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Consider the parabola \ud835\udc662 = 4\ud835\udc65.  Let \ud835\udc46 be the focus of the parabola. A pair of tangents drawn to the \nparabola from the point \ud835\udc43= (\u22122, 1) meet the parabola at \ud835\udc431 and \ud835\udc432. Let \ud835\udc441 and \ud835\udc442 be points on the \nlines \ud835\udc46\ud835\udc431 and \ud835\udc46\ud835\udc432 respectively such that \ud835\udc43\ud835\udc441 is perpendicular to \ud835\udc46\ud835\udc431 and \ud835\udc43\ud835\udc442 is perpendicular to \n\ud835\udc46\ud835\udc432. Then, which of the following is/are TRUE ? \n \n \n \n \n \n\n\n3\u221a10\n5",
+        "options": [
+            "\ud835\udc46\ud835\udc441 = 2     ",
+            "\ud835\udc441\ud835\udc442 =",
+            "\ud835\udc43\ud835\udc441 = 3 ",
+            "\ud835\udc46\ud835\udc442 = 1   "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "Let |\ud835\udc40|  denote the determinant of a square matrix \ud835\udc40.  Let \ud835\udc54: [0,\n\ud835\udf0b\n2] \u2192\u211d  be the function defined by \n \n\ud835\udc54(\ud835\udf03) = \u221a\ud835\udc53(\ud835\udf03) \u22121 + \u221a\ud835\udc53(\ud835\udf0b\n2 \u2212\ud835\udf03) \u22121     \nwhere  \n \n\ud835\udc53(\u03b8) =\n1\n2 |\n1\nsin\ud835\udf03\n1\n\u2212sin\ud835\udf03\n1\nsin \ud835\udf03\n\u22121\n\u2212sin \ud835\udf03\n1\n|   +   |\n|\nsin\ud835\udf0b\ncos (\ud835\udf03+\n\ud835\udf0b\n4)  \ntan (\ud835\udf03\u2212\n\ud835\udf0b\n4)  \n sin (\ud835\udf03\u2212\n\ud835\udf0b\n4)  \n\u2212cos\n\ud835\udf0b\n2\nlog\ud835\udc52(\n4\n\ud835\udf0b)  \ncot (\ud835\udf03+\n\ud835\udf0b\n4)  \nlog\ud835\udc52(\n\ud835\udf0b\n4)  \ntan \ud835\udf0b\n|\n| . \n \nLet  \ud835\udc5d(\ud835\udc65)  be a quadratic polynomial whose roots are the maximum and minimum values of the \nfunction  \ud835\udc54(\ud835\udf03), and \ud835\udc5d(2) = 2 \u2212\u221a2 . Then, which of the following is/are TRUE ? \n \n \n \n \n \n\n3+\u221a2\n4 ) < 0  \n\n1+3\u221a2\n4\n) > 0 \n\n5\u221a2\u22121\n4\n) > 0 \n\n5\u2212\u221a2\n4 ) < 0  \n \n \n \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n6/9",
+        "options": [
+            "\ud835\udc5d(",
+            "\ud835\udc5d(",
+            "\ud835\udc5d(",
+            "\ud835\udc5d("
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Consider the following lists: \n \n                           List-I \n         List-II \n \n(I)   {\ud835\udc65\u2208[\u2212\n2\ud835\udf0b\n3 ,\n2\ud835\udf0b\n3  ]: cos\ud835\udc65+ sin \ud835\udc65= 1} \n(P) has two elements \n \n(II)  {\ud835\udc65\u2208[\u2212\n5\ud835\udf0b\n18 ,\n5\ud835\udf0b\n18 ]: \u221a3 tan 3\ud835\udc65= 1} \n(Q) has three elements \n \n(III) {\ud835\udc65\u2208[\u2212\n6\ud835\udf0b\n5 ,\n6\ud835\udf0b\n5  ]: 2 cos(2\ud835\udc65) = \u221a3} \n(R) has four elements \n \n(IV) {\ud835\udc65\u2208[\u2212\n7\ud835\udf0b\n4 ,\n7\ud835\udf0b\n4  ]: sin\ud835\udc65\u2212cos \ud835\udc65= 1} \n(S) has five elements \n \n \n(T) has six elements \n \n   The correct option is: \n \n \n \n \n\n\n\n\n \n \n \n \nSECTION\u00a03\u00a0(Maximum\u00a0Marks:\u00a012)\u00a0\n\u2022 \nThis\u00a0section\u00a0contains\u00a0FOUR\u00a0(04)\u00a0Matching\u00a0List\u00a0Sets.\u00a0\n\u2022 \nEach\u00a0set\u00a0has\u00a0ONE\u00a0Multiple\u00a0Choice\u00a0Question.\u00a0\n\u2022 \nEach\u00a0set\u00a0has\u00a0TWO\u00a0lists:\u00a0List\u00adI\u00a0and\u00a0List\u00adII.\u00a0\n\u2022 \nList\u00adI\u00a0has\u00a0Four\u00a0entries\u00a0(I),\u00a0(II),\u00a0(III)\u00a0and\u00a0(IV)\u00a0and\u00a0List\u00adII\u00a0has\u00a0Five\u00a0entries\u00a0(P),\u00a0(Q),\u00a0(R),\u00a0(S)\u00a0and\u00a0(T).\u00a0\n\u2022 \nFOUR\u00a0options\u00a0are\u00a0given\u00a0in\u00a0each\u00a0Multiple\u00a0Choice\u00a0Question\u00a0based\u00a0on\u00a0List\u00adI\u00a0and\u00a0List\u00adII\u00a0and\u00a0ONLY\u00a0ONE\u00a0of\u00a0\nthese\u00a0four\u00a0options\u00a0satisfies\u00a0the\u00a0condition\u00a0asked\u00a0in\u00a0the\u00a0Multiple\u00a0Choice\u00a0Question.\u00a0\n\u2022 \nAnswer\u00a0to\u00a0each\u00a0question\u00a0will\u00a0be\u00a0evaluated\u00a0according\u00a0to\u00a0the\u00a0following\u00a0marking\u00a0scheme:\u00a0\nFull\u00a0Marks\u00a0\n:\u00a0\u00a0+3\u00a0 ONLY\u00a0if\u00a0the\u00a0option\u00a0corresponding\u00a0to\u00a0the\u00a0correct\u00a0combination\u00a0is\u00a0chosen;\u00a0\nZero\u00a0Marks\u00a0\n:\u00a0\u00a0\u00a0\u00a0\u00a00\u00a0\u00a0\u00a0If\u00a0none\u00a0of\u00a0the\u00a0options\u00a0is\u00a0chosen\u00a0(i.e.\u00a0the\u00a0question\u00a0is\u00a0unanswered);\u00a0\u00a0\nNegative\u00a0Marks\u00a0:\u00a0\u00a0\u00a0\u22121\u00a0\u00a0In\u00a0all\u00a0other\u00a0cases.\u00a0\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n7/9",
+        "options": [
+            "(I) \u2192(P); (II) \u2192(S); (III) \u2192(P);  (IV) \u2192(S) ",
+            "(I) \u2192(P);  (II) \u2192(P); (III) \u2192(T);  (IV) \u2192(R) ",
+            "(I) \u2192(Q);  (II) \u2192(P); (III) \u2192(T); (IV) \u2192(S) ",
+            "(I) \u2192(Q);  (II) \u2192(S); (III) \u2192(P); (IV) \u2192(R) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "Two players, \ud835\udc431 and \ud835\udc432, play a game against each other. In every round of the game, each player rolls \na fair die once, where the six faces of the die have six distinct numbers. Let \ud835\udc65 and \ud835\udc66 denote the \nreadings on the die rolled by \ud835\udc431 and \ud835\udc432 , respectively. If \ud835\udc65> \ud835\udc66, then \ud835\udc431 scores 5 points and \ud835\udc432 scores \n0 point. If \ud835\udc65= \ud835\udc66, then each player scores 2 points. If \ud835\udc65< \ud835\udc66, then  \ud835\udc431 scores 0 point and  \ud835\udc432 scores 5 \npoints. Let \ud835\udc4b\ud835\udc56 and \ud835\udc4c\ud835\udc56 be the total scores of \ud835\udc431 and \ud835\udc432, respectively, after playing the  \ud835\udc56\ud835\udc61\u210e  round.  \n \nList-I \nList-II \n \n(I)   Probability of (\ud835\udc4b2 \u2265\ud835\udc4c2) is \n(P)   \n3\n8 \n \n(II)  Probability of (\ud835\udc4b2 > \ud835\udc4c2) is \n(Q)   \n11\n16 \n \n(III) Probability of (\ud835\udc4b3 = \ud835\udc4c3) is \n(R)   \n5\n16 \n \n(IV) Probability of (\ud835\udc4b3 > \ud835\udc4c3) is \n(S)  \n355\n864 \n \n \n(T)  \n77\n432 \n \n   The correct option is: \n \n \n \n \n\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n8/9",
+        "options": [
+            "(I) \u2192(Q); (II) \u2192(R); (III) \u2192(T); (IV) \u2192(S) ",
+            "(I) \u2192(Q); (II) \u2192(R); (III) \u2192(T); (IV) \u2192(T) ",
+            "(I) \u2192(P); (II) \u2192(R); (III) \u2192(Q); (IV) \u2192(S) ",
+            "(I) \u2192(P); (II) \u2192(R); (III) \u2192(Q); (IV) \u2192(T) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "Let \ud835\udc5d, \ud835\udc5e, \ud835\udc5f be nonzero real numbers that are, respectively, the 10\ud835\udc61\u210e,  100\ud835\udc61\u210e and 1000\ud835\udc61\u210e terms of a \nharmonic progression. Consider the system of linear equations \n \n \n\ud835\udc65+ \ud835\udc66+ \ud835\udc67= 1\n10\ud835\udc65+ 100\ud835\udc66+ 1000\ud835\udc67= 0  \n\ud835\udc5e\ud835\udc5f \ud835\udc65+ \ud835\udc5d\ud835\udc5f \ud835\udc66+ \ud835\udc5d\ud835\udc5e \ud835\udc67= 0    .\n \n \n \n \nList-I \n List-II \n \n(I) If   \n\ud835\udc5e\n\ud835\udc5f= 10,  then the system of linear \nequations has  \n(P) \ud835\udc65= 0,   \ud835\udc66=\n10\n9  ,  \ud835\udc67= \u2212\n1\n9  as a solution  \n \n \n(II) If   \n\ud835\udc5d\n\ud835\udc5f\u2260100,  then the system of linear \nequations has \n \n(Q) \ud835\udc65=\n10\n9  ,   \ud835\udc66= \u2212\n1\n9 ,  \ud835\udc67= 0 as a solution \n(III) If    \n\ud835\udc5d\n\ud835\udc5e\u226010,  then the system of linear \nequations has \n \n(R) infinitely many solutions \n \n(IV) If   \n\ud835\udc5d\n\ud835\udc5e= 10,  then the system of linear \nequations has \n(S) no solution \n \n \n(T) at least one solution \n \nThe correct option is: \n \n \n \n \n \n\n\n\n\n \n \n \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n9/9",
+        "options": [
+            "(I) \u2192(T); (II) \u2192(R); (III) \u2192(S); (IV) \u2192(T) ",
+            "(I) \u2192(Q); (II) \u2192(S); (III) \u2192(S); (IV) \u2192(R) ",
+            "(I) \u2192(Q); (II) \u2192(R); (III) \u2192(P); (IV) \u2192(R) ",
+            "(I) \u2192(T); (II) \u2192(S); (III) \u2192(P); (IV) \u2192(T) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 18,
+        "subject": "General",
+        "question_text": "Consider the ellipse \n \n\ud835\udc652\n4 + \ud835\udc662\n3 = 1 . \n \nLet \ud835\udc3b(\ud835\udefc, 0), 0 < \ud835\udefc< 2, be a point. A straight line drawn through \ud835\udc3b parallel to the \ud835\udc66-axis crosses \nthe ellipse and its auxiliary circle at points \ud835\udc38 and \ud835\udc39 respectively, in the first quadrant. The tangent to \nthe ellipse at the point \ud835\udc38 intersects the positive \ud835\udc65-axis at a point \ud835\udc3a. Suppose the straight line joining \n\ud835\udc39 and the origin makes an angle \ud835\udf19 with the positive \ud835\udc65-axis.  \n \n          List-I                                                                 \n   List-II \n \n(I)   If \ud835\udf19=\n\ud835\udf0b\n4  , then the area of the triangle \ud835\udc39\ud835\udc3a\ud835\udc3b is \n     (P)  \n(\u221a3\u22121)\n4\n8\n \n \n(II)  If \ud835\udf19=\n\ud835\udf0b\n3  , then the area of the triangle \ud835\udc39\ud835\udc3a\ud835\udc3b is \n    (Q)   1 \n \n(III) If \ud835\udf19=\n\ud835\udf0b\n6  , then the area of the triangle \ud835\udc39\ud835\udc3a\ud835\udc3b is \n     (R)  \n3\n4 \n \n(IV) If \ud835\udf19=\n\ud835\udf0b\n12 , then the area of the triangle \ud835\udc39\ud835\udc3a\ud835\udc3b is \n     (S)  \n1\n2\u221a3 \n \n \n     (T)  \n3\u221a3\n2  \n \n \n \nThe correct option is: \n \n \n \n \n \n\n\n\n\n \nEND OF THE QUESTION PAPER \n\nEIGHT (08)\nPhysics\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n2/12",
+        "options": [
+            "(I) \u2192(R); (II) \u2192(S); (III) \u2192(Q); (IV) \u2192(P) ",
+            "(I) \u2192(R); (II) \u2192(T); (III) \u2192(S); (IV) \u2192(P) ",
+            "(I) \u2192(Q); (II) \u2192(T); (III) \u2192(S); (IV) \u2192(P) ",
+            "(I) \u2192(Q); (II) \u2192(S); (III) \u2192(Q); (IV) \u2192(P) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "At time \ud835\udc61= 0, a disk of radius 1 m starts to roll without slipping on a horizontal plane with an \nangular acceleration of \ud835\udefc=\n\ud835\udc5f\ud835\udc4e\ud835\udc51\ud835\udc60\n. A small stone is stuck to the disk. At \ud835\udc61= 0, it is at the \ncontact point of the disk and the plane. Later, at time \ud835\udc61= \u221a\ud835\udf0b \ud835\udc60, the stone detaches itself and flies \noff tangentially from the disk. The maximum height (in m) reached by the stone measured from the \nplane is +\n. The value of x is _____. [Take \ud835\udc54= 10 \ud835\udc5a \ud835\udc60\n.]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "A solid sphere of mass 1 kg and radius 1 m rolls without slipping on a fixed inclined plane with an \nangle of inclination \ud835\udf03= 30\u00b0 from the horizontal. Two forces of magnitude 1 N each, parallel to the \nincline, act on the sphere, both at distance \ud835\udc5f= 0.5 m from the center of the sphere, as shown in the \nfigure. The acceleration of the sphere down the plane is ____ \ud835\udc5a\ud835\udc60\n. (Take \ud835\udc54= 10 \ud835\udc5a \ud835\udc60\n.)",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "Consider an LC circuit, with inductance \ud835\udc3f= 0.1 \ud835\udc3b and capacitance \ud835\udc36= 10\n\ud835\udc39, kept on a plane. \nThe area of the circuit is 1 \ud835\udc5a. It is placed in a constant magnetic field of strength \ud835\udc35which is \nperpendicular to the plane of the circuit.  At time \ud835\udc61= 0, the magnetic field strength starts \nincreasing linearly as \ud835\udc35= \ud835\udc35+ \ud835\udefd\ud835\udc61with \ud835\udefd= 0.04 \ud835\udc47\ud835\udc60\n. The maximum magnitude of the \ncurrent in the circuit is _____ mA.",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "A projectile is fired from horizontal ground with speed \ud835\udc63 and projection angle \ud835\udf03. When the \nacceleration due to gravity is \ud835\udc54, the range of the projectile is \ud835\udc51. If at the highest point in its \ntrajectory, the projectile enters a different region where the effective acceleration due to gravity is \n\ud835\udc54=\n.\n, then the new range is \ud835\udc51= \ud835\udc5b\ud835\udc51. The value of n is _____.  \n \n \n \n \n \n \n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n4/12",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 9,
+        "subject": "General",
+        "question_text": "A medium having dielectric constant K >1 fills the space between the plates of a parallel plate \ncapacitor. The plates have large area, and the distance between them is d. The capacitor is \nconnected to a battery of voltage V, as shown in Figure (a). Now, both the plates are moved by a \ndistance of\nfrom their original positions, as shown in Figure (b).\n                         Figure (a)                                                            Figure (b) \nIn the process of going from the configuration depicted in Figure (a) to that in Figure (b), which of \nthe following statement(s) is(are) correct?  \n \n \n \n \n\n\n. \n\n\n \n \n \nd\nV \nd\n\ud835\udc51\n2 \nV \n\ud835\udc51\n2 \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n5/12",
+        "options": [
+            "The electric field inside the dielectric material is reduced by a factor of 2\ud835\udc3e. ",
+            "The capacitance is decreased by a factor of ",
+            "The voltage between the capacitor plates is increased by a factor of (\ud835\udc3e+ 1). ",
+            "The work done in the process DOES NOT depend on the presence of the dielectric material.  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 10,
+        "subject": "General",
+        "question_text": "The figure shows a circuit having eight resistances of 1 \u03a9 each, labelled \ud835\udc45 to \ud835\udc45, and two ideal \nbatteries with voltages \u2130= 12 \ud835\udc49and \u2130= 6 \ud835\udc49. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nWhich of the following statement(s) is(are) correct?  \n \n\n\n\n\n \n \n \n\u2130 \n\u2130\n\ud835\udc45 \n\ud835\udc45\n\ud835\udc45 \n\ud835\udc45\n\ud835\udc45\n\ud835\udc45\n\ud835\udc45\n\ud835\udc45\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n6/12",
+        "options": [
+            "The magnitude of current flowing through \ud835\udc45 is 7.2 A. ",
+            "The magnitude of current flowing through \ud835\udc45 is 1.2 A. ",
+            "The magnitude of current flowing through \ud835\udc45 is 4.8 A.",
+            "The magnitude of current flowing through \ud835\udc45 is 2.4 A. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "An ideal gas of density \ud835\udf0c= 0.2 \ud835\udc58\ud835\udc54 \ud835\udc5a\n enters a chimney of height \u210e at the rate of \ud835\udefc=\n0.8 \ud835\udc58\ud835\udc54 \ud835\udc60\n from its lower end, and escapes through the upper end as shown in the figure. The \ncross-sectional area of the lower end is \ud835\udc34= 0.1 \ud835\udc5a and the upper end is \ud835\udc34= 0.4 \ud835\udc5a. The \npressure and the temperature of the gas at the lower end are 600 \ud835\udc43\ud835\udc4e and 300 \ud835\udc3e, respectively, \nwhile its temperature at the upper end is 150 \ud835\udc3e. The chimney is heat insulated so that the gas \nundergoes adiabatic expansion. Take \ud835\udc54= 10 \ud835\udc5a \ud835\udc60\n and the ratio of specific heats of the gas \n\ud835\udefe= 2. Ignore atmospheric pressure.  \n \n \nWhich of the following statement(s) is(are) correct? \n \n \n \n \n\n\n and at the upper end is \n20 \ud835\udc5a \ud835\udc60\n.    \n\n\n.",
+        "options": [
+            "The pressure of the gas at the upper end of the chimney is 300 \ud835\udc43\ud835\udc4e.  ",
+            "The velocity of the gas at the lower end of the chimney is 40 \ud835\udc5a \ud835\udc60",
+            "The height of the chimney is 590 \ud835\udc5a.  ",
+            "The density of the gas at the upper end is 0.05 \ud835\udc58\ud835\udc54 \ud835\udc5a"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "Three plane mirrors form an equilateral triangle with each side of length \ud835\udc3f.  There is a small \nhole at a distance \ud835\udc59> 0 from one of the corners as shown in the figure. A ray of light is passed \nthrough the hole at an angle \ud835\udf03and can only come out through the same hole. The cross \nsection of the mirror configuration and the ray of light lie on the same plane.  \n \n \nWhich of the following statement(s) is(are) correct? \n \n\n\n\n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n7/12",
+        "options": [
+            "The ray of light will come out for \ud835\udf03= 30\u2218, for 0 < \ud835\udc59< \ud835\udc3f. ",
+            "There is an angle for \ud835\udc59=  at which the ray of light will come out after two reflections.",
+            "The ray of light will NEVER come out for \ud835\udf03= 60\u2218, and \ud835\udc59= .  ",
+            "The ray of light will come out for \ud835\udf03= 60\u2218, and  0 < \ud835\udc59<  after six reflections.  "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Six charges are placed around a regular hexagon of side length \ud835\udc4e as shown in the figure. Five \nof them have charge \ud835\udc5e, and the remaining one has charge \ud835\udc65. The perpendicular from each \ncharge to the nearest hexagon side passes through the center O of the hexagon and is bisected \nby the side.  \n \n \nWhich of the following statement(s) is(are) correct in SI units?\n\n\n \n \n.     \n\n\u221a\n.  \n\n.",
+        "options": [
+            "When \ud835\udc65= \ud835\udc5e, the magnitude of the electric field at O is zero. ",
+            "When \ud835\udc65= \u2212\ud835\udc5e, the magnitude of the electric field at O is  ",
+            "When \ud835\udc65= 2\ud835\udc5e, the potential at O is ",
+            "When \ud835\udc65= \u22123\ud835\udc5e, the potential at O is \u2212 \u221a"
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "The binding energy of nucleons in a nucleus can be affected by the pairwise Coulomb repulsion. \nAssume that all nucleons are uniformly distributed inside the nucleus. Let the binding energy of a \nproton be \ud835\udc38 and the binding energy of a neutron be \ud835\udc38 in the nucleus. \n \nWhich of the following statement(s) is(are) correct? \n               \n               \n               \n               \n \n \n\nFOUR (04)\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n9/12",
+        "options": [
+            "\ud835\udc38\u2212\ud835\udc38 is proportional to  \ud835\udc4d(\ud835\udc4d\u22121) where Z is the atomic number of the nucleus. ",
+            "\ud835\udc38\u2212\ud835\udc38 is proportional to  \ud835\udc34  where A is the mass number of the nucleus. ",
+            "\ud835\udc38\u2212\ud835\udc38  is positive. ",
+            "\ud835\udc38increases if the nucleus undergoes a beta decay emitting a positron. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "List I describes four systems, each with two particles A and B in relative motion as shown in \nfigures. List II gives possible magnitudes of their relative velocities (in \ud835\udc5a\ud835\udc60\n) at time \ud835\udc61=\n \ud835\udc60.   \n \nList-I \nList-II \n(I) A and B are moving on a horizontal circle of radius 1 \ud835\udc5a with \nuniform angular speed \ud835\udf14= 1 \ud835\udc5f\ud835\udc4e\ud835\udc51\ud835\udc60\n. The initial angular positions of \nA and B at time \ud835\udc61= 0 are \ud835\udf03= 0 and \ud835\udf03= , respectively.  \n(P)  \u221a\n \n(II) Projectiles A and B are fired (in the same vertical plane) at \ud835\udc61= 0\nand \ud835\udc61= 0.1 \ud835\udc60respectively, with the same speed \ud835\udc63= \u221a\n\ud835\udc5a\ud835\udc60\n and at \n45\u00b0 from the horizontal plane. The initial separation between A and B \nis large enough so that they do not collide.  (\ud835\udc54= 10 \ud835\udc5a \ud835\udc60\n). \n \n \n \n \n \n \n(Q) \u221a\n\u221a\n \n(III) Two harmonic oscillators A and B moving in the x direction \naccording to \ud835\udc65= \ud835\udc65sin\nand \ud835\udc65\n= \ud835\udc65sin\n+\n respectively, \nstarting from \ud835\udc61= 0. Take \ud835\udc65= 1 \ud835\udc5a, \ud835\udc61= 1 \ud835\udc60. \n \n \n \n \n \n \n \n                                \n \n \n \n \n(R) \u221a10 \n(IV) Particle A is rotating in a horizontal circular path of radius 1 \ud835\udc5a on \nthe xy plane, with constant angular speed \ud835\udf14= 1 \ud835\udc5f\ud835\udc4e\ud835\udc51 s\n. Particle B is \nmoving up at a constant speed 3 \ud835\udc5a \ud835\udc60\n in the vertical direction as \nshown in the figure. (Ignore gravity.) \n \n \n                                 \n \n \n \n \n \n(S) \u221a2 \n \n \n \n \n \n(T) \u221a25\ud835\udf0b+ 1 \n \n \nWhich one of the following options is correct? \n \n\n\n \n\n \n\n \n\ud835\udc65= \ud835\udc65\ud835\udc60\ud835\udc56\ud835\udc5b\ud835\udc61\n\ud835\udc61  \n\ud835\udc65\n= \ud835\udc65 \ud835\udc60\ud835\udc56\ud835\udc5b( \ud835\udc61\n\ud835\udc61+ \ud835\udf0b\n2)  \n\ud835\udc65\n\ud835\udc35 \n\ud835\udc34 \n\ud835\udc61= 0 \n\ud835\udc61= 0.1\ud835\udc60 \n45\u00b0\n45\u00b0\n\ud835\udc65 \n\ud835\udc34 \n\ud835\udc35\n3 \ud835\udc5a \ud835\udc60\n \n\ud835\udc66 \n\ud835\udc67 \n\ud835\udc35 \n\ud835\udc34 \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n10/12",
+        "options": [
+            "I \uf0e0R, II \uf0e0 T, III \uf0e0 P, IV \uf0e0 S ",
+            "I \uf0e0 S, II \uf0e0 P, III \uf0e0Q, IV \uf0e0 R ",
+            "I \uf0e0 S, II \uf0e0 T, III \uf0e0 P, IV \uf0e0 R ",
+            "I \uf0e0T, II \uf0e0 P, III \uf0e0 R, IV \uf0e0 S "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "List I describes thermodynamic processes in four different systems. List II gives the magnitudes \n(either exactly or as a close approximation) of possible changes in the internal energy of the system \ndue to the process.  \nList-I \nList-II \n \n(I) 10\n kg of water at 100\u00b0\ud835\udc36 is converted to steam at the \nsame temperature, at a pressure of 10  \ud835\udc43\ud835\udc4e. The volume of \nthe system changes from 10\n \ud835\udc5a to 10\n \ud835\udc5a in the \nprocess. Latent heat of water = 2250 kJ/kg. \n \n(P) 2 kJ \n(II) 0.2 moles of a rigid diatomic ideal gas with volume V \nat temperature 500 K undergoes an isobaric expansion to \nvolume 3 V. Assume \ud835\udc45= 8.0 \ud835\udc3d\ud835\udc5a\ud835\udc5c\ud835\udc59\n\ud835\udc3e\n.  \n \n(Q) 7 kJ \n(III) One mole of a monatomic ideal gas is compressed \nadiabatically from volume \ud835\udc49=\n\ud835\udc5a and pressure 2 kPa \nto volume  . \n \n(R) 4 kJ \n(IV) Three moles of a diatomic ideal gas whose molecules \ncan vibrate, is given 9 kJ of heat and undergoes isobaric \nexpansion. \n(S) 5 kJ \n \n                   (T) 3 kJ \nWhich one of the following options is correct? \n \n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n11/12",
+        "options": [
+            "I \uf0e0 T, II \uf0e0 R, III \uf0e0 S, IV \uf0e0 Q, ",
+            "I \uf0e0 S, II \uf0e0P, III \uf0e0T, IV \uf0e0P,",
+            "I \uf0e0 P, II \uf0e0 R, III \uf0e0 T, IV \uf0e0 Q. ",
+            "I \uf0e0 Q, II \uf0e0 R, III \uf0e0 S, IV \uf0e0 T, "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 18,
+        "subject": "General",
+        "question_text": "List I contains four combinations of two lenses (1 and 2) whose focal lengths (in cm) are indicated \nin the figures. In all cases, the object is placed 20 cm from the first lens on the left, and the distance \nbetween the two lenses is 5 cm. List II contains the positions of the final images.  \nList-I \n \nList-II \n(I)  \n(P) Final image is formed at 7.5 cm on the \nright side of lens 2. \n \n \n \n \n \n \n \n(II)\n \n \n \n(Q) Final image is formed at 60.0 cm on the \nright side of lens 2. \n \n \n \n \n \n \n(III) \n(R)  Final image is formed at 30.0 cm on the \nleft side of lens 2. \n \n \n \n \n \n \n \n \n \n \n(IV)  \n(S) Final image is formed at 6.0 cm on the \nright side of lens 2. \n \n(T) Final image is formed at 30.0 cm on the \nright side of lens 2. \nWhich one of the following options is correct? \n \n \n\n\n\n\n \n \n \nO \nf =  +10        +15           \n20 cm      1              2 \n   f =  +10        \u221210        \n20 cm      1              2 \nO \nO \n f =  +10        \u221220          \n20 cm      1              2 \n5 cm \n5 cm \n5 cm \nO \nf =  \u221220          +10         \n20 cm      1              2 \n5 cm \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n \n12/12\nEND OF THE QUESTION PAPER \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n1/10\nSECTION\u00a01\u00a0(Maximum\u00a0Marks:\u00a024)\u00a0\n\u2022 \nThis\u00a0section\u00a0contains\u00a0EIGHT\u00a0(08)\u00a0questions.\u00a0\u00a0\n\u2022 \nThe\u00a0answer\u00a0to\u00a0each\u00a0question\u00a0is\u00a0a\u00a0NUMERICAL\u00a0VALUE.\u00a0\n\u2022 \nFor\u00a0each\u00a0question,\u00a0enter\u00a0the\u00a0correct\u00a0numerical\u00a0value\u00a0of\u00a0the\u00a0answer\u00a0using\u00a0the\u00a0mouse\u00a0and\u00a0the\u00a0on\u00adscreen\u00a0\nvirtual\u00a0numeric\u00a0keypad\u00a0in\u00a0the\u00a0place\u00a0designated\u00a0to\u00a0enter\u00a0the\u00a0answer.\u00a0If\u00a0the\u00a0numerical\u00a0value\u00a0has\u00a0more\u00a0\nthan\u00a0two\u00a0decimal\u00a0places,\u00a0truncate/round\u00adoff\u00a0the\u00a0value\u00a0to\u00a0TWO\u00a0decimal\u00a0places.\u00a0\u00a0\n\u2022 \nAnswer\u00a0to\u00a0each\u00a0question\u00a0will\u00a0be\u00a0evaluated\u00a0according\u00a0to\u00a0the\u00a0following\u00a0marking\u00a0scheme:\u00a0\nFull\u00a0Marks\u00a0\n:\u00a0\u00a0+3\u00a0 ONLY\u00a0if\u00a0the\u00a0correct\u00a0numerical\u00a0value\u00a0is\u00a0entered;\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Zero\u00a0Marks\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0:\u00a0\u00a0\u00a00\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0In\u00a0all\u00a0other\u00a0cases.",
+        "options": [
+            "(I) \uf0e0 P; (II) \uf0e0 R; (III) \uf0e0 Q; (IV) \uf0e0 T ",
+            "(I) \uf0e0 Q; (II) \uf0e0 P; (III) \uf0e0 T; (IV) \uf0e0 S ",
+            "(I) \uf0e0 P; (II) \uf0e0 T; (III) \uf0e0 R; (IV) \uf0e0 Q ",
+            "(I) \uf0e0 T; (II) \uf0e0 S; (III) \uf0e0 Q; (IV) \uf0e0 R "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 1,
+        "subject": "General",
+        "question_text": "2 mol of Hg(g) is combusted in a fixed volume bomb calorimeter with excess of O2 at 298 K and \n1 atm into HgO(s). During the reaction, temperature increases from 298.0 K to 312.8 K.  If heat \ncapacity of the bomb calorimeter and enthalpy of formation of Hg(g) are 20.00 kJ K-1 and 61.32 kJ \nmol-1 at 298 K, respectively, the calculated standard molar enthalpy of formation of HgO(s) at 298 \nK is X  kJ mol-1.  The value of |X| is _______. \n \n[Given: Gas constant R = 8.3 J K-1 mol-1]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 2,
+        "subject": "General",
+        "question_text": "The reduction potential (E0, in V) of MnO4\n\u2212(aq)/Mn(s) is ______. \n \n[Given: \ud835\udc38(MnO4\u2013(aq)/MnO2(s))\n0\n= 1.68 V; \ud835\udc38(MnO2(s)/Mn2+(aq))\n0\n= 1.21 V; \ud835\udc38(Mn2+(aq)/Mn(s))\n0\n= \u20131.03 V ]  \n \nChemistry\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n2/10",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 3,
+        "subject": "General",
+        "question_text": "A solution is prepared by mixing 0.01 mol each of H2CO3, NaHCO3, Na2CO3, and NaOH in \n100 mL of water. pH of the resulting solution is _______. \n \n[Given: pKa1 and pKa2 of H2CO3 are 6.37 and 10.32, respectively; log 2 = 0.30]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 4,
+        "subject": "General",
+        "question_text": "The treatment of an aqueous solution of 3.74 g of Cu(NO3 )2 with excess KI results in a brown \nsolution along with the formation of a precipitate. Passing H2S through this brown solution gives \nanother precipitate X. The amount of X (in g) is ________. \n \n[Given: Atomic mass of H = 1, N = 14, O = 16, S = 32, K = 39, Cu = 63, I = 127]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 5,
+        "subject": "General",
+        "question_text": "Dissolving 1.24 g of white phosphorous in boiling NaOH solution in an inert atmosphere gives a \ngas Q. The amount of CuSO4 (in g) required to completely consume the gas Q is _______.  \n \n[Given: Atomic mass of H = 1, O = 16, Na = 23, P = 31, S = 32, Cu = 63] \n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n3/10",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 6,
+        "subject": "General",
+        "question_text": "Consider the following reaction. \n \n \n \nOn estimation of bromine in 1.00 g of R using Carius method, the amount of AgBr formed (in g) is \n________. \n \n[Given: Atomic mass of H = 1, C = 12, O = 16, P = 31, Br = 80, Ag = 108]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 7,
+        "subject": "General",
+        "question_text": "The weight percentage of hydrogen in Q, formed in the following reaction sequence, is ________. \n \n  \n \n[Given: Atomic mass of H = 1, C = 12, N = 14, O = 16, S = 32, Cl = 35]",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 8,
+        "subject": "General",
+        "question_text": "If the reaction sequence given below is carried out with 15 moles of acetylene, the amount of the \nproduct D formed (in g) is ________. \n \n  \n \nThe yields of A, B, C and D are given in parentheses. \n[Given: Atomic mass of H = 1, C = 12, O = 16, Cl = 35] \n \n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n5/10",
+        "options": [],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 11,
+        "subject": "General",
+        "question_text": "The electrochemical extraction of aluminum from bauxite ore involves \n \n\n\n(Al2O3\u00b73H2O).",
+        "options": [
+            "the reaction of Al2O3 with coke (C) at a temperature > 2500 \u00baC. ",
+            "the neutralization of aluminate solution by passing CO2 gas to precipitate hydrated alumina ",
+            "the dissolution of Al2O3 in hot aqueous NaOH. ",
+            "the electrolysis of Al2O3 mixed with Na3AlF6 to give Al and CO2. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 12,
+        "subject": "General",
+        "question_text": "The treatment of galena with HNO3 produces a gas that is",
+        "options": [
+            "paramagnetic ",
+            "bent in geometry ",
+            "an acidic oxide ",
+            "colorless "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 13,
+        "subject": "General",
+        "question_text": "Considering the reaction sequence given below, the correct statement(s) is(are) \n  \n \n\n\n\n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n6/10",
+        "options": [
+            "P can be reduced to a primary alcohol using NaBH4. ",
+            "Treating P with conc. NH4OH solution followed by acidification gives Q. ",
+            "Treating Q with a solution of NaNO2 in aq. HCl liberates N2. ",
+            "P is more acidic than CH3CH2COOH. "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 14,
+        "subject": "General",
+        "question_text": "Considering the following reaction sequence, \n \n  \nthe correct option(s) is(are) \n \n\n \n \n \n\n \n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n7/10\nSECTION\u00a03\u00a0(Maximum\u00a0Marks:\u00a012)\u00a0\n\u2022 \nThis\u00a0section\u00a0contains\u00a0FOUR\u00a0(04)\u00a0Matching\u00a0List\u00a0Sets.\u00a0\n\u2022 \nEach\u00a0set\u00a0has\u00a0ONE\u00a0Multiple\u00a0Choice\u00a0Question.\u00a0\n\u2022 \nEach\u00a0set\u00a0has\u00a0TWO\u00a0lists:\u00a0List\u00adI\u00a0and\u00a0List\u00adII.\u00a0\n\u2022 \nList\u00adI\u00a0has\u00a0Four\u00a0entries\u00a0(I),\u00a0(II),\u00a0(III)\u00a0and\u00a0(IV)\u00a0and\u00a0List\u00adII\u00a0has\u00a0Five\u00a0entries\u00a0(P),\u00a0(Q),\u00a0(R),\u00a0(S)\u00a0and\u00a0(T).\u00a0\n\u2022 \nFOUR\u00a0options\u00a0are\u00a0given\u00a0in\u00a0each\u00a0Multiple\u00a0Choice\u00a0Question\u00a0based\u00a0on\u00a0List\u00adI\u00a0and\u00a0List\u00adII\u00a0and\u00a0ONLY\u00a0ONE\u00a0of\u00a0\nthese\u00a0four\u00a0options\u00a0satisfies\u00a0the\u00a0condition\u00a0asked\u00a0in\u00a0the\u00a0Multiple\u00a0Choice\u00a0Question.\u00a0\n\u2022 \nAnswer\u00a0to\u00a0each\u00a0question\u00a0will\u00a0be\u00a0evaluated\u00a0according\u00a0to\u00a0the\u00a0following\u00a0marking\u00a0scheme:\u00a0\nFull\u00a0Marks\u00a0\n:\u00a0\u00a0+3\u00a0 ONLY\u00a0if\u00a0the\u00a0option\u00a0corresponding\u00a0to\u00a0the\u00a0correct\u00a0combination\u00a0is\u00a0chosen;\u00a0\nZero\u00a0Marks\u00a0\n:\u00a0\u00a0\u00a0\u00a0\u00a00\u00a0\u00a0\u00a0If\u00a0none\u00a0of\u00a0the\u00a0options\u00a0is\u00a0chosen\u00a0(i.e.\u00a0the\u00a0question\u00a0is\u00a0unanswered);\u00a0\u00a0\nNegative\u00a0Marks\u00a0:\u00a0\u00a0\u00a0\u22121\u00a0\u00a0In\u00a0all\u00a0other\u00a0cases.\u00a0\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n8/10",
+        "options": [
+            "(B) ",
+            "(D) "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 15,
+        "subject": "General",
+        "question_text": "Match the rate expressions in LIST-I for the decomposition of X with the corresponding profiles \nprovided in LIST-II. Xs and k are constants having appropriate units. \n \n \nLIST-I \nLIST-II \n(I) \n \ns\nk[X]\nrate = X +[X]\nunder all possible initial concentrations of X\n \n \n(P) \n \n \n \n \n(II) \ns\ns\nk[X]\nrate = X +[X]\nwhere initial concentrations of X are \nmuch less than X\n \n(Q) \n \n \n \n \n(III) \ns\ns\nk[X]\nrate = X +[X]\nwhere initial concentrations of X are\nmuch higher than X\n \n(R) \n \n \n(IV) \n2\ns\ns\nk[X]\nrate = X +[X]\nwhere initial concentration of X is\nmuch higher than X\n \n(S) \n \n \n \n(T) \n \n \n \n \n\n\n\n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n9/10",
+        "options": [
+            "I\u2192 P; II\u2192 Q; III \u2192 S; IV \u2192 T ",
+            "I\u2192 R; II\u2192 S; III \u2192 S; IV \u2192 T ",
+            "I\u2192 P; II\u2192 Q; III \u2192 Q; IV \u2192 R ",
+            "I\u2192 R; II\u2192 S; III \u2192 Q; IV \u2192 R "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 16,
+        "subject": "General",
+        "question_text": "LIST-I contains compounds and LIST-II contains reactions \n \n \nLIST-I \n \nLIST-II \n(I) H2O2 \n(P) Mg(HCO3)2 + Ca(OH)2 \u2192 \n(II) Mg(OH)2 \n(Q) BaO2 + H2SO4 \u2192 \n(III) BaCl2 \n(R) Ca(OH)2 + MgCl2 \u2192 \n(IV) CaCO3 \n(S) BaO2 + HCl \u2192 \n \n(T) Ca(HCO3)2 + Ca(OH)2 \u2192 \n \nMatch each compound in LIST-I with its formation reaction(s) in LIST-II, and choose the correct \noption",
+        "options": [
+            "I \u2192 Q; II \u2192 P; III \u2192 S; IV \u2192 R ",
+            "I \u2192 T; II \u2192 P; III \u2192 Q; IV \u2192 R ",
+            "I \u2192 T; II \u2192 R; III \u2192 Q; IV \u2192 P ",
+            "I \u2192 Q; II \u2192 R; III \u2192 S; IV \u2192 P "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 17,
+        "subject": "General",
+        "question_text": "LIST-I contains metal species and LIST-II contains their properties. \n \n \nLIST-I \n \nLIST-II \n(I) [Cr(CN)6]\n4\u2013 \n(P) t2g orbitals contain 4 electrons  \n(II) [RuCl6]\n2\u2013 \n(Q) \u00b5(spin-only) = 4.9 BM \n(III) [Cr(H2O)6]\n2+ \n(R) low spin complex ion \n(IV) [Fe(H2O)6]\n2+ \n(S) metal ion in 4+ oxidation state \n \n(T) d\n4 species \n \n[Given: Atomic number of Cr = 24, Ru = 44, Fe = 26] \n \nMatch each metal species in LIST-I with their properties in LIST-II, and choose the correct option \n\n\n\n\n\nJEE (Advanced) 2022 \n \n                               Paper 1 \n10/10",
+        "options": [
+            "I \u2192 R, T; II \u2192 P, S; III \u2192 Q, T; IV \u2192 P, Q ",
+            "I \u2192 R, S; II \u2192 P, T; III \u2192 P, Q; IV \u2192 Q, T ",
+            "I \u2192 P, R; II \u2192 R, S; III \u2192 R, T; IV \u2192 P, T ",
+            "I \u2192 Q, T; II \u2192 S, T; III \u2192 P, T; IV \u2192 Q, R "
+        ],
+        "images": [],
+        "image_options": []
+    },
+    {
+        "question_number": 18,
+        "subject": "General",
+        "question_text": "Match the compounds in LIST-I with the observations in LIST-II, and choose the correct option. \n \n \n \nLIST-I \nLIST-II \n(I) Aniline \n(P) Sodium fusion extract of the compound on \nboiling with FeSO4, followed by \nacidification with conc. H2SO4, gives \nPrussian blue color. \n \n(II) o-Cresol \n(Q) Sodium fusion extract of the compound on \ntreatment with sodium nitroprusside gives \nblood red color. \n \n(III) Cysteine \n(R) Addition of the compound to a saturated \nsolution of NaHCO3 results in \neffervescence. \n \n(IV) Caprolactam \n(S) The compound reacts with bromine water \nto give a white precipitate. \n \n \n(T) Treating the compound with neutral FeCl3 \nsolution produces violet color. \n \n \n\n\n\n\n \nEND OF THE QUESTION PAPER",
+        "options": [
+            "I\u2192P,Q; II\u2192S; III\u2192Q,R; IV\u2192P ",
+            "I\u2192P; II\u2192R,S; III\u2192R; IV\u2192Q,S ",
+            "I\u2192Q,S; II\u2192P,T; III\u2192P; IV\u2192S ",
+            "I\u2192P,S; II\u2192T; III\u2192Q,R; IV\u2192P "
+        ],
+        "images": [],
+        "image_options": []
+    }
+]
